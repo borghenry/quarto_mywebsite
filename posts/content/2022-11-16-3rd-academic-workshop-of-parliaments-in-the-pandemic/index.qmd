@@ -1,0 +1,13 @@
+---
+title: 3rd Academic Workshop of Parliaments in the Pandemic
+categories:
+  - legitech
+  - conferences
+date: '2022-11-15'
+author: Enrico Borghetto
+image: featured.png
+---
+
+The *Parliaments in the Pandemic* (PiP) collaboration held their 3rd academic workshop on 14-15 November 2022 to discuss the first analyses of their international expert panel survey on how parliaments around the globe were affected by the Covid pandemic.
+
+PiP is a global collaboration organized by the RCLS and supported by SYRI, Prague, and the Institute for Parliamentary Research, Berlin. More on PiP can be found [here](https://ipsa-rcls.us14.list-manage.com/track/click?u=9e8e5fee34408aefe77d10eab&id=8eb7c8d68c&e=00fcecc5b2).

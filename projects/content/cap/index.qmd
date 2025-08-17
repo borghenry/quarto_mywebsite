@@ -1,0 +1,8 @@
+---
+title: Comparative Agendas Project
+image: featured.png
+categories: [CAP]
+description: "I am currently Principal investigator in two national cap teams: Italian and Portuguese policy agendas"
+---
+-   [Italian policy agendas](https://www.comparativeagendas.net/italy)  
+-   [Portuguese policy agendas](https://www.comparativeagendas.net/portugal)

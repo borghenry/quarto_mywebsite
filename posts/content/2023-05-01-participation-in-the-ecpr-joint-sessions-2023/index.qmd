@@ -1,0 +1,9 @@
+---
+title: Participation in the ECPR Joint Sessions 2023
+categories: conferences
+date: '2023-05-01'
+author: Enrico Borghetto
+image: featured.png
+---
+
+Great talks and stimulating presentations at the [Joint Sessions of Workshops, Sciences Po Toulouse, 25 -- 28 April 2023](https://ecpr.eu/Events/203). I participated in the workshop ["**Social Groups and Electoral Politics: Group Appeals, Targeted Policy and Voter Responses"**](https://ecpr.eu/Events/Event/PanelDetails/12455)

@@ -1,0 +1,11 @@
+---
+title: Legitech Conference 2022 in Villa Ruspoli
+categories: legitech
+date: '2022-05-12'
+author: Enrico Borghetto
+image: featured.png
+---
+
+The first Legitech Conference took place on 12th May 2022 in Villa Ruspoli (Firenze). The programme was extensive and featured an exceptional parterre of speakers. To download the programme, please click [here](https://www.dropbox.com/s/jy1k7e2ijj3bx0h/DSG_Seminario_Tecnica_Legislativa.pdf?dl=0).
+
+![](legitech_conference_2022.png)

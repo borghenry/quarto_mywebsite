@@ -1,0 +1,9 @@
+---
+title: CAP 2022 Annual Meeting
+categories: CAP
+date: '2022-07-12'
+author: Enrico Borghetto
+image: featured.png
+---
+
+The CAP 2022 Annual Meeting was held at the Lauder School of Government, Diplomacy and Strategy at Reichman University, Israel, on July 10-12. I presented a co-authored paper (with Amnon Cavari, Emiliano Grossman, and Ilana Shpaizman) entitled: "The effect of government characteristics on the diversity of government legislation". The program schedule is available [here](https://www.runi.ac.il/media/5t1nxhdu/cap-program-schedule.pdf).

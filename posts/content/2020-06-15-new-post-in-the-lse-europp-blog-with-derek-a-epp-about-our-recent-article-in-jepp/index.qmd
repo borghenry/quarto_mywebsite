@@ -1,0 +1,12 @@
+---
+title: New post in the LSE EUROPP blog with Derek Epp about our recent article in
+  JEPP
+date: '2020-06-15'
+author: Enrico Borghetto
+image: featured.png
+---
+
+In this post for the EUROPP (European politics and policy) [blog](https://blogs.lse.ac.uk/europpblog/) of the London School of economics, we present the 
+findings from our [recent article in JEPP](https://enricoborghetto.netlify.app/publication/jepp-legislative-2020/). The post
+can be found at this address: https://blogs.lse.ac.uk/europpblog/2020/06/11/does-rising-economic-inequality-create-a-representation-gap-between-rich-and-poor-evidence-from-europe-and-the-united-states/  
+Enjoy the reading!  

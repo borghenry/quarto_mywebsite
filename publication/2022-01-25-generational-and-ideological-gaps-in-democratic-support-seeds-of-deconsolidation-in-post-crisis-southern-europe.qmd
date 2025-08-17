@@ -1,0 +1,18 @@
+---
+title: 'Generational and Ideological Gaps in Democratic Support: Seeds of Deconsolidation in Post-Crisis Southern Europe?'
+author: []
+date: '2022-01-25'
+categories:
+  - political representation
+  - democracy
+  - democratic satisfaction
+authors: ["Emmanouil Tsatsanis", "Enrico Borghetto", "André Freire", "José Ramón Montero"]
+doi: "10.1080/13608746.2021.2016245"
+publishDate: '2022-01-25T08:42:04+01:00'
+publication: 'Southern European Society and Politics'
+publication_short: ''
+abstract: 'This article explores trends in overall levels of democratic support in Portugal, Spain, Italy, and Greece. Additionally, the article examines the extent to which the experience of the steep economic downturn in Southern Europe had specific effects on democratic support across different generations and ideological groups by examining survey data that span three decades. The evidence is mixed concerning the resilience of democratic values in the four South European countries, ranging from stability in Portugal to noticeable decline in Italy. Members of the ‘millennial’ generation appear to be more susceptible to the period effect of the crisis, whereas left-wing and centrist citizens are more likely to select democracy as the best form of government compared to right-wing citizens.'
+summary: ''
+featured: Yes
+url_pdf: "https://www.tandfonline.com/eprint/KCRXK3EAHS85INRGZZXK/full?target=10.1080/13608746.2021.2016245"
+---

@@ -1,0 +1,6 @@
+---
+title: Replan-EU
+image: featured.png
+categories: [replaneu]
+description: "Jean Monnet Module - Implementing Resilience and Recovery Plans in Italy and beyond"
+---

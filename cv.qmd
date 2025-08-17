@@ -1,0 +1,186 @@
+---
+title: "Enrico Borghetto"
+subtitle: "Curriculum Vitae"
+bibliography: mypubs.bib
+csl: year-sorted.csl
+date: last-modified
+date-format: long
+nocite: |
+  @*
+format: 
+  html:
+    embed-resources: true
+    theme: flatly
+    toc: true
+    toc_float: true
+  pdf:
+    toc: true
+    cite-method: biblatex
+    biblatexoptions:
+      - sorting=ynt
+---
+
+## ORCID
+
+<https://orcid.org/0000-0001-8676-3583>
+
+## WORK ADDRESS
+
+Dipartimento di Scienze Politiche e Sociali, Università degli Studi di Firenze, Via delle Pandette, 21 (Building D5) 2nd floor, Florence, FI 50127
+
+## ACADEMIC APPOINTMENTS
+
+-   **2023-PRESENT** Associate professor, Department of Political and Social Sciences ([DSPS](https://www.dsps.unifi.it/)) University of Florence, Italy ([Institutional page](https://www.unifi.it/cercachi-per-17866.html)).
+
+-   **2020-2023** Tenure-track lecturer, Department of Political and Social Sciences ([DSPS](https://www.dsps.unifi.it/)) University of Florence, Italy ([Institutional page](https://www.unifi.it/cercachi-per-17866.html)).
+
+-   **2019-2020** Contracted Researcher, contract funded by the Fundação para a Ciência e a Tecnologia at [IPRI](http://www.ipri.pt/index.php/en/), Faculty of Social and Human Sciences (FCSH) University NOVA of Lisbon, Portugal
+
+-   **2015-2019** FCT investigator, contract funded by the Fundação para a Ciência e a Tecnologia (IF/00382/2014) at [CICS.NOVA](https://www.cics.nova.fcsh.unl.pt/), Faculty of Social and Human Sciences (FCSH) University NOVA of Lisbon, Portugal
+
+-   **2013-2015** Postdoctoral Researcher at CESNOVA (now [CICS.NOVA](https://www.cics.nova.fcsh.unl.pt/)), FCSH, with a project entitled "The policy agenda at the time of crisis in Europe's periphery" (Bolsas de Pós-Doutoramento (BPD) funded by the Fundação para a Ciência e a Tecnologia, SFRH/BPD/89968/2012) University NOVA of Lisbon, Portugal
+
+-   **2008-2012** Postdoctoral Researcher, Department of Social and Political Studies ([SPS](https://www.sps.unimi.it/ecm/home)) with a project entitled "The europeanisation of executive-legislative relations: national parliaments and Community legislation" University of Milan, Milano, Italy
+
+## EDUCATION
+
+-   **2007** Ph.D. in [Political Studies](https://www.nasp.eu/training/phd-programmes/pols.html) at the Graduate School in Social, Economic and Political Sciences of the University of Milan Dissertation: 'Non-compliance with the transposition deadlines of EU directives: the Italian case. Explaining transposition of EU directives into Italian legislation' Supervisor: Prof. Marco Giuliani
+
+-   **2003** Bachelor in [International Relations and Diplomatic Affairs](https://corsi.unibo.it/1cycle/InternationalDiplomaticRelations) (110/110 magna cum laude) University of Bologna (Forlì), Faculty of International and Diplomatic Sciences Dissertation: "The accountability of international organisations: the Principal -Agent model applied to the WTO and the IMF". Supervisor: Prof. Salvatore Vassallo
+
+## PUBLICATIONS
+
+::: {#refs}
+:::
+
+## ACADEMIC SERVICE
+
+-   Peer Review for Academic Journals: <https://publons.com/researcher/1429699/enrico-borghetto/>
+-   Member of the [editorial board](https://ejpr.onlinelibrary.wiley.com/hub/journal/14756765/homepage/editorialboard.html) for the European Journal of Political Research
+-   [Associate editor](https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/information/about-this-journal/editorial-board) for the Italian Political Science Review
+-   [Academic tutor for incoming students](https://www.sc-politiche.unifi.it/vp-122-in-ingresso.html) for the School of Political Sciences at the University of Florence
+-   Deputy director of the Interdepartmental Research Centre ["CEJM- Centro di Eccellenza Jean Monnet"](https://www.cejm.unifi.it/)
+-   Coordinator on behalf of the Department of Political and Social Sciences for the Agreements with the following universities:
+    -   [Thuongmai University](https://tmu.edu.vn/en/)
+
+    -   [Hanoi University](https://hanu.vn/)
+
+    -   [James Madison University](http://www.jmu.edu/eupolicystudies)(Virginia)
+
+## MEMBERSHIP OF PROFESSIONAL BODIES
+
+-   Member of the Italian Political Science Association (SISP)
+-   Member of the International Political Science Association (IPSA)
+-   Board member of the [IPSA Research Committee 08 - Legislative Specialists](https://www.ipsa.org/page/rc08-legislative-specialists)
+-   Member of CIRCaP - [Centre for the study of political change](https://www.circap.unisi.it/)
+-   Member of the CIRES - [Centro Interuniversitario di Ricerca sul Sud Europa](https://www.dsps.unifi.it/p92.html)
+-   Member of the scientific committee of Ces-UE - [International Centre for European and Global Governance](https://www.cesue.eu/en/)
+-   Associated Researcher at the Portuguese Institute of International Relations ([IPRI](http://www.ipri.pt/index.php/en/)), Faculty of Social and Human Sciences (FCSH) University NOVA of Lisbon, Portugal
+
+## RESEARCH EXPERIENCE
+
+### CURRENT PROJECTS
+
+-   **2025-PRESENT** Member of the steering committee of [MEDEM - Monitoring electoral democracy](https://www.medem.eu/)
+
+-   **2024-2026** Participant in the Jean Monnet Policy Network “[ValEUs. Research & Education Network on Contestations to EU Foreign Policy](https://valeus.eu/)”
+
+-   **2023-2025** Coordinator for the Unit in Florence of the Research Project of National Relevance "[Explaining the formulation and implementation of Recovery and Resilience Plans in Europe: a comparative approach](https://www.replaneuresearch.eu/)"
+
+-   **2022-2025** Coordinator for the Jean Monnet Module "[REPLAN-EU: Implementing Resilience and Recovery Plans in Italy and beyond](https://www.replaneu.unifi.it/)"
+
+-   **2015-PRESENT** One of the Principal investigators for the [Portuguese Policy Agendas Project](https://www.comparativeagendas.net/portugal). This is a joint research project involving ISCTE and the FCSH
+
+-   **2009-PRESENT** One of the Principal investigators for the [Italian Policy Agendas Project](https://www.comparativeagendas.net/italy). This is a joint research project involving the University of Florence, Lecce and Catania
+
+### PAST PROJECTS
+
+-   **2022-2023** One of the Principal investigators for the Project ["Legitech: representative assemblies and technological innovation after the pandemics"](http://www.legitechresearch.it/)
+
+<!-- -->
+
+-   **2021-2023** Part of the staff for the Jean Monnet Centre of Excellence ["TrustEU: Making visible the added value of the Union in everyday life of citizens"](https://www.trusteu-cejm.unifi.it/)
+
+-   **2020-2022** Principal investigator for "ConstiRep: Constituency Service and policy representation in European Parliaments". This research project is funded by the Transnational Cooperation Program Pessoa (2020) and involves the FCSH and Lille University
+
+-   **2015-2020** Principal investigator "Portuguese Parliament: Agenda-setting and Law-making" Exploratory Project financed by the Fundação para a Ciência e a Tecnologia (IF/00382/2014)
+
+-   **2016-2020** Researcher in the project ["Democracy in times of crisis: Power and Discourse in a three-level game"](https://goo.gl/ExHizi) Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/2247/2014, coordinated by Catherine Moury, FCSH) URL:
+
+-   **2016-2020** Researcher in the project ["Crisis, Political Representation and Democratic Renewal: The Portuguese case in the Southern European context"](https://goo.gl/HMBMaK) Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3098/2014, coordinated by André Freire, Marco Lisi and Emmanouil Tsatsanis, FCSH and ISCTE-IUL) URL:
+
+-   **2013-2015** Researcher in the project "Public preferences and Policy decision-making: a comparative analysis" Project financed by the Fundação para a Ciência e a Tecnologia (PTDC/IVC-CPO/3921/2012, coordinated by Ana Belchior, ISCTE-IUL)
+
+-   **2014-2018** Principal investigator in the Portuguese team participating in the European project "Political Leaders in European Cities" (Coordinated by the University of Florence) This project deals with the role of Mayors and the transformation of political representation and careers at the local level.
+
+-   **2010-2012** Co-manager of the ILMA (Italian-Law Making Database) ILMA originated from an idea of a group of scholars affiliated with the Department of Social and Political Studies at the Universita' degli Studi di Milano, and it is one of the scientific products of the Center for the Observation of Legislatures (COoL). It is a relational database that combines information on Italian legislation, roll calls and political elites. It currently covers six Italian legislatures (1987-2008).
+
+-   **2010-2012** Member of the research unit of the University of Milan in the project -Institutional agenda setting: Actors, time, information.- co-financed by the Italian Ministry for Research and Higher Education (PRIN 2009, Protocol 2009TPW4NL_002, Principal Investigator: prof. Marco Giuliani).
+
+-   **2008-2012** Researcher in the Italian team participating in the European project "Delors' Myth: The scope and impact of Europeanization on law production". The project aims are: 1) developing new methods to quantitatively measure the Europeanization of national public policies (i.e. the scope and extent national policies are shaped by EU law and policy); 2) analysing the impact of EU policy-making on the relationship between government and parliament in each of the nine countries under study.
+
+-   **2006** Research assistant at the Research Unit on European Governance (URGE) Collegio Carlo Alberto di Moncalieri, Torino, Italy Key areas of responsibility: review of the literature relevant for URGE projects; assistance in the preparation of manuscripts and reports; management of events organized by URGE.
+
+-   **Jan/Aug 2005** Research assistant for the project: "Compliance with EU Law: Explaining the Transposition of EU Directives" (Coordinator: Prof. Fabio Franchino) University College London, School of Public Policy, London, UK Key areas of responsibility: data collection and maintenance of the database on national transposition of EU directives; review of the literature on EU Compliance; contribution to joint publications.
+
+-   **Oct/Dec 2004** Research assistant for the project "Political representation and legislative process in the regions and the autonomous provinces in Italy" (Coordinator Prof. Salvatore Vassallo) Istituto Carlo Cattaneo and Universita' di Bologna, Bologna, Italy Key areas of responsibility: assistance in drafting the questionnaire; interviews with over 30 members of the Lombardia Regional Council.
+
+### VISITING RESEARCH PERIODS
+
+-   **May 2019** Visiting Researcher, IDC Herzliya Tel Aviv, Israel
+
+-   **Sept 2017/Jan 2018** Visiting Researcher, Department of Government University of Texas, Austin, USA
+
+-   **Feb/Mar 2012** Visiting Fellow Mannheim Centre for European Social Research (MZES) University of Mannheim, Mannheim, Germany
+
+-   **Jun/Aug 2010** Visiting Fellow, Center for American Politics and Public Policy (CAPPP) University of Washington, Seattle, USA
+
+**Jan/Aug 2005** Visiting Fellow, School of Public Policy University College London, London, UK
+
+```{r, include=FALSE, eval=FALSE}
+print("TEACHING EXPERIENCE
+
+2022-2025 "Politics of European integration", Postgraduate course, University of Florence
+
+2021-25 "European Politics and Policy in the contemporary world", Postgraduate course, University of Florence
+
+2023 "An introduction to the R language", First-level Master's course in Digital Transformation, University of Florence (12 hours)
+
+2021 "The Essentials of Data Analysis in R", Scuola Superiore di Catania, University of Catania, (12 hours)
+
+2020-21 "Interest Group Politics", Postgraduate course, University of Florence, 3 ECTS (21 hours)
+
+2020 "Comparative Politics", Undergraduate course, University of Florence, 6 ECTS (42 hours)
+
+2020 "Analise Politica Comparada", Undergraduate course, FCSH, Nova University of Lisbon, 9 ECTS (64 hours)
+
+2018-20 "Research design", Lisbon Winter School in Research Skills and Methods, FCSH, NOVA University of Lisbon, 2 ECTS (12 hours)
+
+2019 "The Maestri of Political Science", Course for PhD students, FCSH, Nova University of Lisbon, 2 ECTS (20 hours)
+
+2019 "Parliamentary Studies", Master Course, FCSH, Nova University of Lisbon, 6 ECTS (44 hours)
+
+2017-2019 Tutorial for undergraduate students "Portuguese Parliament: Agenda-setting and Law-making", FCSH, Nova University of Lisbon, 3 ECTS (20 hours)
+
+2014-18 "The Essentials of Data Analysis in R", Lisbon Summer School, FCSH, NOVA University of Lisbon, 2 ECTS (25 hours)
+
+2018 "Politics in challenging times. Populism, protests and the crisis of representation after the Great Recession", Master Course, FCSH, Nova University of Lisbon, 6 ECTS (44 hours)
+
+2016 "The political and social consequences of the Great Recession in Southern Europe", Master Course, FCSH, Nova University of Lisbon, 6 ECTS (44 hours)"
+```
+
+## TRAINING
+
+-   **Jul 2022** ECPR Summer School in Methods and Techniques, online, One-week course in 'Panel Data Analysis'.
+
+-   **Mar 2017** ECPR Winter School in Methods and Techniques, Bamberg, Germany One-week course in 'Time-series Analysis'.
+
+-   **Feb 2012** ECPR Winter School in Methods and Techniques, Vienna, Austria One-week course in 'Sequence Analysis'.
+
+-   **Jun 2010** Five day workshop on sequence analysis for political scientists Tools for text workshop, University of Washington, Seattle, US Two-day workshop covering a range of content analysis approaches: Manual Annotation; Unsupervised Learning; Supervised Learning; Dimensional Scaling.
+
+-   **Mar 2010** Oxford Spring School, Oxford, UK One-week course in "Modern Regression".
+
+-   **Jun 2009** Empirical Implications of Theoretical Models, Mannheim, Germany The two-week summer school focused on modelling techniques and methods of empirical testing theoretical models in the social science.
+
+-   **Jul 2005** Essex Summer School in Social Science Data Analysis, UK The two-week summer school focused on Maths for Social Scientists, Survival Analysis, Mixing Methods

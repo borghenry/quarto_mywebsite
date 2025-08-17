@@ -1,0 +1,10 @@
+---
+title: "Projects"
+page-layout: full
+listing:
+  contents: content
+  type: grid
+  fields: [image, title, description, categories]
+  image-align: left
+title-block-banner: true
+---

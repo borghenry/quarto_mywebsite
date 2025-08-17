@@ -1,0 +1,13 @@
+---
+title: 'Legitech panel at ICON-S Italia '
+categories:
+  - legitech
+  - conferences
+date: '2022-09-17'
+author: Enrico Borghetto
+image: featured.png
+---
+
+[Legitech](http://www.legitechresearch.it/) panel at [Icon-s Italian Chapter](https://www.icons-italia.it/): "Parlamenti e Innovazione tecnologica dopo la pandemia", 16th September 2022, Università degli studi di Bologna
+
+![](images/Locandina%202_page-0001.jpg)

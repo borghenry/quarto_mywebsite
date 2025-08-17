@@ -1,0 +1,9 @@
+---
+title: Data Analysis in R - Scuola Superiore di Catania
+categories: []
+date: '2022-02-25'
+author: Enrico Borghetto
+image: featured.jpeg
+---
+I was invited to teach a five-day course in data analysis in R at the [Scuola Superiore di Catania](https://ssc.unict.it/), Disegno e metodi della ricerca politica, from 21st to 25th February 2022.
+You can download the syllabus [here](https://www.dropbox.com/s/xz6j0x9lerktia5/syllabus.pdf?dl=0).

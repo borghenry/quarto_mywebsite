@@ -1,0 +1,17 @@
+---
+title: "Posts"
+listing:
+  contents: content
+  sort: "date desc"
+  type: default
+  categories: true
+  fields:
+    - title
+    - subtitle
+    - date
+    - image
+    - categories
+page-layout: full
+title-block-banner: false
+comments: false
+---

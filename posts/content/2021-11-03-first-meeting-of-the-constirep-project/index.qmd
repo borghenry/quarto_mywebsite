@@ -1,0 +1,9 @@
+---
+title: First meeting of the Constirep project in Lisbon
+categories: constirep
+date: '2021-11-03'
+author: Enrico Borghetto
+image: featured.png
+---
+NA
+---

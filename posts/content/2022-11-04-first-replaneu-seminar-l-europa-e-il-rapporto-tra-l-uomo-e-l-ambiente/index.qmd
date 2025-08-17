@@ -1,0 +1,11 @@
+---
+title: 'First ReplanEU seminar: "L’Europa e il rapporto tra l’uomo e l’ambiente"'
+categories:
+  - replaneu
+  - talks
+date: '2022-11-04'
+author: Enrico Borghetto
+image: featured.png
+---
+
+The first ReplanEU seminar: "L'Europa e il rapporto tra l'uomo e l'ambiente" took place on Wednesday 2 November 17:45 at Manifattura Tabacchi, via delle Cascine 35 - Firenze. I talked about European policies to tackle climate change with Mario Pagano, Annika Frosch and Caterina Taurelli Salimbeni.![](images/picture.jpg)

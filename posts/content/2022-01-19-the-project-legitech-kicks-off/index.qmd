@@ -1,0 +1,14 @@
+---
+title: The Project "Legitech" is awarded a grant by the University of Florence
+categories: legitech
+date: '2022-01-19'
+author: Enrico Borghetto
+image: featured.png
+---
+
+The project was funded by the University of Florence through the competitive announcement ["Finanziamento di progetti competitivi per Ricercatori a Tempo Determinato (RTD) dell'Università di Firenze 2021-23"](https://www.google.com/url?q=https%3A%2F%2Fwww.unifi.it%2Fvp-10809-finanziamento-di-progetti-competitivi.html&sa=D%22) and is co-led with my Unifi colleague [Renato Ibrido](https://www.unifi.it/p-doc2-2020-0-A-2d2a382e322f-0.html).
+
+ABSTRACT:\
+The pandemic crisis represented an unprecedented challenge for legislative assemblies, which were required to rethink their traditional methods of parliamentary work. In most cases, this translated into a process of modernization of their ICT capacity. Starting from an analysis of the reaction to the first waves of the health emergency of 2020-2021 - assumed as a paradigmatic case study to analyse the dynamics of technological reorganization of parliamentary procedures - this research project aims to investigate the implications, the potential and, where appropriate, the risks of the introduction of ICT solution in the context of parliamentary work.
+
+For more information go the official website: http://www.legitechresearch.it/

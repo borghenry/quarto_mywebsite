@@ -1,0 +1,9 @@
+---
+title: Second meeting of the Constirep project in Lille
+categories: constirep
+date: '2022-04-26'
+author: Enrico Borghetto
+image: featured.png
+---
+
+The meeting saw the participation of myself, Marco Lisi (FCSH), João Cancela (FCSH) and Julien Navarro (UC Lille) and took place at [Lille Catholic University](https://www.univ-catholille.fr/en).

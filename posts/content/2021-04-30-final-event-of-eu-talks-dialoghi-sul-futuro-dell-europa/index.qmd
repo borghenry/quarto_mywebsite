@@ -1,0 +1,11 @@
+---
+title: 'Final event of Eu Talks - Dialoghi sul futuro dell''Europa '
+categories: trusteu
+date: '2021-04-30'
+author: Enrico Borghetto
+image: featured.png
+---
+
+You can watch the online streaming of the event [here](https://www.youtube.com/watch?v=DAwWlAV5T0U&list=PLRFafbeoOxdFwnWVYBj7eJR0x8U3WV5H_&index=1).
+
+![](images/program.png)

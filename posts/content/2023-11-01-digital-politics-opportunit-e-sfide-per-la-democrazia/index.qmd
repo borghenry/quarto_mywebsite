@@ -1,0 +1,13 @@
+---
+title: Digital politics - Opportunità e sfide per la democrazia
+categories: legitech
+date: '2023-11-01'
+author: Enrico Borghetto
+image: featured.png
+---
+
+I had the privilege of participating in a thought-provoking conference held at the Social Sciences Campus on October 26th and 27th, 2023. This event was organized by the School of Political Science in collaboration with the Circolo Rosselli Foundation and received generous support from the Ministry of Culture. The conference was a part of the centenary celebrations of the University of Florence.
+
+I was honored to be part of the panel discussion titled "Italian Politics in the Digital Age," where I engaged in a dialogue with Francesco Raniolo, a Political Science Professor from the University of Calabria, and Emiliana De Blasio, an Open Government Professor from LUISS. My presentation delved into the fascinating realm of artificial intelligence and its impact on parliamentary work.
+
+The conference program is available [here](https://www.sc-politiche.unifi.it/upload/sub/newavvisi/2023/DIGITAL-POLITICS_WEB-PROGRAMMA.pdf)

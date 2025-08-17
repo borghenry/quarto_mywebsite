@@ -1,0 +1,13 @@
+---
+title: Comparative Agendas Conference 2023
+categories:
+  - CAP
+  - Conferences
+date: '2023-07-01'
+author: Enrico Borghetto
+image: featured.jpeg
+---
+
+I participated in the Comparative Agendas Project Annual Conference, which took place at the University of Antwerp (Conference center Hof van Liere) in Belgium, on June 27-29 2023. For more information: <https://www.uantwerpen.be/en/conferences/annual-conference-of-the-comparative-agendas-project/>
+
+![](images/2023_0628_18112100.jpeg)

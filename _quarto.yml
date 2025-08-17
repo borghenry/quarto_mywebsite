@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Enrico Borghetto"
+  site-url: "https://www.enricoborghetto.eu"
+  repo-url: https://github.com/
+  description: "Website of Enrico Borghetto"
+  cookie-consent: false    
+  search: true
+  navbar:
+    background: "darkgreen"
+    right:
+      - text: "CV"
+        file: cv.qmd
+      - text: "Posts"
+        file: posts/posts.qmd
+      - text: "Projects"
+        file: projects/projects.qmd
+  page-footer:
+    left: |
+      {{< fa regular copyright >}} Enrico Borghetto, 2025<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
+      Opinions are my own and do not represent my employer
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+
+format:
+  html:
+    grid:
+      body-width: 1000px
+      sidebar-width: 200px
+      margin-width: 300px
+    theme:
+      - cosmo
+    css: custom.scss
+    toc: true
+editor: visual
+

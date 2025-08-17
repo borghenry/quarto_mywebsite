@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+  <info>
+    <title>Year-sorted Author-Date</title>
+    <id>http://www.zotero.org/styles/year-sorted-author-date</id>
+    <link href="http://www.zotero.org/styles/chicago-author-date" rel="template"/>
+    <author>
+      <name>Custom</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="political_science"/>
+    <updated>2025-08-14T00:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+
+  <macro name="author">
+    <names variable="author">
+      <name and="text" name-as-sort-order="first" sort-separator=", " delimiter=", " initialize-with=". "/>
+    </names>
+  </macro>
+
+  <macro name="issued">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+
+  <macro name="title">
+    <text variable="title" font-style="italic"/>
+  </macro>
+
+  <macro name="container">
+    <group delimiter=", ">
+      <text variable="container-title"/>
+      <group delimiter=" ">
+        <text variable="volume"/>
+        <text variable="issue" prefix="(" suffix=")"/>
+      </group>
+      <text variable="page"/>
+    </group>
+  </macro>
+
+  <macro name="doi-url">
+    <group delimiter=". ">
+      <text variable="DOI" prefix="https://doi.org/"/>
+      <text variable="URL"/>
+    </group>
+  </macro>
+
+  <citation collapse="year" et-al-min="4" et-al-use-first="3">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued" sort="descending"/>
+      <key variable="title"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <text macro="author"/>
+      <text macro="issued" prefix=", "/>
+    </layout>
+  </citation>
+
+  <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="3" line-spacing="2" entry-spacing="0">
+    <sort>
+      <key macro="issued" sort="descending"/>
+      <key macro="author"/>
+      <key variable="title"/>
+    </sort>
+    <layout>
+      <group delimiter=". ">
+        <text macro="author"/>
+        <text macro="issued" prefix=" (" suffix=")"/>
+        <text macro="title"/>
+        <text macro="container"/>
+        <text macro="doi-url"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,10 @@
+---
+title: Guest Lecture at Monash University Prato Centre
+categories:
+  - talks
+  - replaneu
+date: '2022-11-28'
+author: Enrico Borghetto
+---
+
+I had the pleasure to give a guest lecture at the Monash University Prato Centre on NextGenerationEU and National recovery plans entitled "NGEU: What is important to know" inside of the course "The European Union challenges, crises and opportunities"
