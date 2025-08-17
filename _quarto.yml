@@ -5,7 +5,7 @@ project:
 website:
   title: "Enrico Borghetto"
   site-url: "https://www.enricoborghetto.eu"
-  repo-url: https://github.com/
+  repo-url: https://github.com/gitborghenry/quarto_mywebsite.git
   description: "Website of Enrico Borghetto"
   cookie-consent: false    
   search: true
