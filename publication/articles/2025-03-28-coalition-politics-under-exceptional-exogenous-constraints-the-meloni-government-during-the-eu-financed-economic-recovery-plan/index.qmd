@@ -1,0 +1,16 @@
+---
+title: 'Coalition politics under exceptional exogenous constraints: the Meloni government
+  during the EU-financed economic recovery plan'
+date: '2024-10-29'
+categories:
+  - CAP
+  - replaneu
+  - agenda-setting
+  - European Union
+  - ngeu
+  - law-making
+  - government
+authors: ['Enrico Borghetto','Marco Improta','Francesco Marangoni']
+doi: '10.1080/13608746.2024.2413852'
+abstract: 'Since its inauguration, the coalition dynamics characterizing the Meloni government have been interrelated with managing one of the largest investment plans in Italian history: the Next Generation EU-funded recovery plan. This windfall represents both a historic opportunity for economic revitalization and an unprecedented external constraint for Italy. By linking two established research agendas, the coalition life cycle and the Europeanisation of domestic politics, this study examines the extent to which external constraints arising from EU membership may have affected coalition governance. Using a longitudinal design spanning almost three decades (1996-2023), the study finds that the implementation of the recovery plan is associated both with new trends and the accentuation of existing ones, including the strengthening of the prime minister’s role.'
+---

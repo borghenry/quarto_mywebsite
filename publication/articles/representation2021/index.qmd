@@ -1,0 +1,8 @@
+---
+title: 'Pedersen, Helene Helboe, and Enrico Borghetto. 2021. “Fighting COVID-19 on Democratic Terms. Parliamentary Functioning in Italy and Denmark during the Pandemic.” Representation 57(4): 401–18.'
+authors: ["Helene Helboe Pedersen", "Enrico Borghetto"]
+date: '2021-09-06'
+categories: ["Covid19", "legislative studies", "political representation", "Italy", "Denmark"]
+doi: "10.1080/00344893.2021.1973546"
+abstract: 'The COVID-19 pandemic challenged parliamentary decision-making, which is normally based on time-consuming deliberation and scrutiny. We ask how national parliaments met this challenge during the first wave in the spring 2020, and we argue that institutional powers of the executive designed to handle crises just like a pandemic, paradoxically, increase challenges to democratic decision-making because the parliament misses opportunities to negotiate institutional adjustments accommodating pressure of government takeover. We evaluate this argument based on a comparative study of parliamentary activity in Italy and Denmark during the first wave of COVID-19 and find that both parliaments came under pressure with regard to law-making and control, but only the Danish parliament was able to install effective mechanisms to regain lost powers. It is too early to conclude on parliamentary consequences of COVID-19, but our study suggests that parliamentary reforms in response to the COVID-19 democratic challenges will mainly manifest in political systems without strong institutions to handle states of emergency.'
+---

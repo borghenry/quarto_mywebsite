@@ -1,0 +1,13 @@
+---
+title: "Reform Agendas in National Recovery and Resilience Plans: Partisan Politics and Domestic Usages of Europe"
+categories:
+  - replaneu
+  - ngeu
+  - government
+authors:
+  - Enrico Borghetto
+  - Lucia Quaglia
+  - Igor Guardiancich
+doi: "10.1111/jcms.13738"
+abstract: "This article examines the agency of national executives in shaping the reform agendas within the National Recovery and Resilience Plans (NRRPs) under the EU's Recovery and Resilience Facility (RRF). Through a comparative analysis of NRRPs drafting in Germany, France, Italy and Spain, and an in-depth longitudinal study of Italy, we argue that the partisan profile of national executives, to a significant extent, accounts for which reforms were included in the respective national plans, while the domestic usage of Europe by national executives explains how they went about embedding those reforms in the NRRPs. In terms of research design, we first match the reform priorities outlined in the political manifestos of the governing parties and those included in the NRRPs. Second, through a systematic analysis of press coverage, we sketch out how national executives leveraged (or not) Europe domestically during the drafting of their respective plans. Our findings contribute to shed light on the interplay between domestic political dynamics and EU-level requirements, demonstrating how governments navigated the tension between fulfilling their electoral mandates, building domestic support for their reform agendas and adhering to EU guidelines and constraints."
+---

@@ -1,0 +1,9 @@
+---
+title: "Complying with the transposition deadlines of EU directives. Evidence from Italy"
+date: 2006-01-01
+authors: ["Enrico Borghetto", "Fabio Franchino", "Daniela Giannetti"]
+abstract: ""
+tags: ["transposition", "compliance"]
+doi: "10.1483/21752"
+---
+

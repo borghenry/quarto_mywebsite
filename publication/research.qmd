@@ -1,0 +1,41 @@
+---
+title: "Research"
+listing:
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    fields: [date, title, categories]
+    categories: true
+    feed: 
+      items: 10
+  - id: book-chapters
+    contents: "chapters/*/index.qmd"
+    sort: "date desc"
+    fields: [date, title, categories]
+    categories: true
+  - id: otherpubs
+    contents: "otherpubs/*/index.qmd"
+    sort: "date desc"
+    fields: [date, title, categories]
+    categories: true
+
+page-layout: full
+include-back-link: true
+toc-location: right
+date-format: "YYYY"
+---
+
+## Journal articles
+
+::: {#articles}
+:::
+
+## Book chapters
+
+::: {#book-chapters}
+:::
+
+## Other publications
+
+::: {#reviews}
+:::

@@ -1,0 +1,8 @@
+---
+title: The politics of parliamentary agenda-setting styles
+date: '2021-07-17'
+categories: []
+authors: ["Shaun Bevan", "Enrico Borghetto", "Henrik Seeberg"]
+doi: '10.4324/9780429286322-25'
+abstract: 'Policy styles in parliamentary agenda setting follow both institutional and political processes. While the rules that govern the core agenda-setting tool of parliamentary questions vary from country to country affecting how many and who can ask questions, more universal rules concerning parliamentary seats, the effect of opposition parties, and the role niche parties play have common effects across all parliaments. To test these common effects while accounting for institutional differences, we consider how they drive the scope (the range of issues) of parliamentary questions asked by political parties across six Western European countries for an extended period of time. Our results show that while institutional differences driving the number of questions affects scope as does the length of a cabinet, notable effects for the number of parliamentary seats, opposition parties, and green parties on scope exist cross-nationally. Our work suggests that when it comes to parliamentary attention, both institutions and common differences in political party styles are important drivers.'
+---

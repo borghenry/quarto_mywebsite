@@ -1,0 +1,8 @@
+---
+title: "Review \"Ensaios de Política Comparada de Giovanni Sartori\""
+date: 2019-01-01
+authors: ["Enrico Borghetto"]
+abstract: ""
+doi: "10.31447/as00032573.2019233.13"
+---
+

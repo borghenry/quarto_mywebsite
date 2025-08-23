@@ -1,5 +1,0 @@
----
-title : "L’analisi comparata delle agende politiche: il Comparative"
-date : "2999"
-abstract : ""
----

@@ -1,0 +1,9 @@
+---
+title: "Borghetto, Enrico, and Marcello Carammia. 2010. “L’analisi Comparata Delle Agende Politiche: Il Comparative Agendas Project.” Rivista Italiana di Scienza Politica 2(Agosto 2010): 301–15"
+date: 2010-01-01
+publishDate: 2020-04-28T15:41:10.972371Z
+authors: ["Enrico Borghetto", "Marcello Carammia"]
+abstract: "Quando, come e perché una determinata questione entra nell’agenda di un sistema politico? Quali attori ne spingono o ne frenano il passaggio dal dibattito pubblico alle arene decisionali? Quali aspetti specifici, tra quelli connessi al problema, guadagnano centralità nell’agenda politica, e per quale ragione? E ancora: come è cambiato il contenuto dell’agenda politica nel tempo, e perché? In quale misura le preferenze dei cittadini sono incorporate nell’agenda dei decisori pubblici? Queste sono solo alcune delle importanti domande con cui si confrontano, oggi come ieri, gli studiosi delle agende politiche. Questo focus non si pone l’obiettivo di mappare una letteratura – peraltro di ragguardevoli dimensioni nonché, fin dalle origini, trasversale a più discipline quali gli studi sui media, sull’opinione pubblica, sugli attori e sulle istituzioni politiche – bensì di illustrare un programma di ricerca comparata sulle agende politiche: il Comparative Agendas Project (CAP)"
+doi: "10.1426/32331"
+categories: ["CAP", "policy agendas", "agenda-setting", "Italy"]
+---

@@ -1,5 +1,0 @@
----
-title : "Policy agendas in Italy"
-date : "2999"
-abstract : ""
----

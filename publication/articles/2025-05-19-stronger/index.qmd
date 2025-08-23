@@ -1,0 +1,15 @@
+---
+title: Guardiancich, Igor, Mattia Guidi, Enrico Borghetto, and Lucia Quaglia. 2025. “Stronger Conditionality for Stronger Compliance? Analysing the NGEU’s Effect on the Implementation of European Semester Recommendations” *Journal of European Public Policy*
+date: 2025-05-12
+categories:
+  - replaneu
+  - ngeu
+  - European Union
+authors:
+  - Igor Guardiancich
+  - Mattia Guidi
+  - Enrico Borghetto
+  - Lucia Quaglia
+doi: '10.1080/13501763.2025.2502088'
+abstract: 'This study examines the capacity of the European Union (EU) to influence policy change in its member states by focusing on the impact of EU conditionality under the Recovery and Resilience Facility (RRF) introduced as part of the Next Generation EU (NGEU) package adopted in response to COVID-19 pandemic. Using data on the evaluations of the implementation of the 2019–2020 country-specific recommendations (CSRs) before (2021) and after (2022–2024) the official start of the programme, we assess to what extent the RRF conditionality impacts the effectiveness of the European Semester. The findings of our statistical analysis indicate that the amount of RRF funding received, relative to GDP, is significant for compliance. Other factors play a role: a higher problem load, measured by the average yearly CSRs from 2011 to 2019, and sector-specific challenges, like those in energy, negatively impacted policy implementation. Conversely, countries with an initially lower compliance with the Commission’s recommendations received more favourable evaluations. Similarly, reforms concerning financial and fiscal governance performed better than average. This paper contributes to the literature on the implementation of the RRF and its impact on the reshaping of EU economic governance by demonstrating that it has improved compliance with CSRs, underpinning domestic reform efforts.'
+---

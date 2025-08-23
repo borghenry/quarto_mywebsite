@@ -1,5 +1,0 @@
----
-title : "Coalition politics under exceptional exogenous constraints: the Meloni"
-date : "2999"
-abstract : ""
----

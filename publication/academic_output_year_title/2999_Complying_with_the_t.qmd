@@ -1,5 +1,0 @@
----
-title : "Complying with the transposition deadlines of EU"
-date : "2999"
-abstract : ""
----

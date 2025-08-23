@@ -1,5 +1,0 @@
----
-title : "Populism"
-date : "2999"
-abstract : ""
----

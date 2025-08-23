@@ -1,5 +1,0 @@
----
-title : "Government Agenda"
-date : "2999"
-abstract : ""
----

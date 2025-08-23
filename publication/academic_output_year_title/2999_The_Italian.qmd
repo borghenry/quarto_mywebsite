@@ -1,5 +1,0 @@
----
-title : "The Italian"
-date : "2999"
-abstract : ""
----

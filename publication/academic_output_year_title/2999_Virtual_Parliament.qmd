@@ -1,5 +1,0 @@
----
-title : "Virtual Parliament"
-date : "2999"
-abstract : ""
----

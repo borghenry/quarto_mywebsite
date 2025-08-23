@@ -1,5 +1,0 @@
----
-title : "The role of subnational authorities in the implementation of EU"
-date : "2999"
-abstract : ""
----
