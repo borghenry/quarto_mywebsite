@@ -1,0 +1,9 @@
+---
+title: "Derek A. Epp & Enrico Borghetto (2021). **Legislative agendas during periods of inequality: evidence from Europe and the United States**. *Journal of European Public Policy*, 28(4), 532--550."
+authors: ["Derek A. Epp", "Enrico Borghetto"]
+date: "2021"
+categories: ["agenda-setting", "lawmaking", "legislatures"]
+abstract: |
+  This article investigates the relationship between economic inequality and legislative agendas. It argues that rising inequality makes agenda setting especially vulnerable to the influence of economic elites, and that elites use their influence to keep redistributive policies from receiving governmental attention. Empirical tests use data on public laws and bills introduced in the legislatures of five European countries between 1981 and 2012, and the United States between 1948 and 2015. As inequality becomes more acute, we observe a migration in legislative attention away from issues dealing with the social safety-net. These effects are more pronounced earlier in the policy process, which is consistent with the idea that elites can act as gatekeepers of legitimate policy ideas. These findings suggest that economic stratification shapes the policymaking debate in ways that make redistribution less likely.
+doi: "10.1080/13501763.2020.1734060"
+---

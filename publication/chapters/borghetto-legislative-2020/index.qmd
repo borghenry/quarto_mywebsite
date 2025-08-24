@@ -1,7 +1,0 @@
----
-title: "Legislative Activities before and after the Great Recession: An Analysis of Unemployment and Social Welfare Issues"
-date: 2020-01-01
-authors: ["Enrico Borghetto", "Marco Lisi"]
-abstract: ""
----
-

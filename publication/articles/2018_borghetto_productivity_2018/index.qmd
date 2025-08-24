@@ -1,0 +1,9 @@
+---
+title: "Enrico Borghetto & Marco Lisi (2018). **Productivity and Reselection in a Party-based Environment: Evidence from the Portuguese Case**. *Parliamentary Affairs*, 71(4), 868--887."
+authors: ["Enrico Borghetto", "Marco Lisi"]
+date: "2018"
+categories: ["party politics", "representation", "parliamentary questions", "Portugal"]
+abstract: |
+  Abstract. Portugal is a crucial case when studying candidate reselection in a party-dominated setting. While we expect the productivity of Members of Parliamen
+doi: "10.1093/pa/gsx051"
+---

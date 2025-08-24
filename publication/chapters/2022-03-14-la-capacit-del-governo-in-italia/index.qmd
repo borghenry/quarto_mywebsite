@@ -1,7 +1,0 @@
----
-title: La capacità del governo in Italia. Un rafforzamento incompiuto
-date: '2022-03-14'
-categories: []
-authors: ["Enrico Borghetto", "Francesco Marangoni"]
-doi: ''
----

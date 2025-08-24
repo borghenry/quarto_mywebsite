@@ -1,8 +1,0 @@
----
-title: "Governing by revising. A study on post-enactment policy change in Italy"
-date: 2015-01-01
-authors: ["Enrico Borghetto", "Francesco Visconti"]
-abstract: ""
-doi: "10.4324/9781315746937"
----
-

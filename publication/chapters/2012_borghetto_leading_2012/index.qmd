@@ -1,0 +1,6 @@
+---
+title: "Enrico Borghetto, Marco Giuliani, & Francesco Zucchini (2012). **Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006)**. In Sylvain Brouard, Olivier Costa, Thomas König (eds.), *The Europeanization of Domestic Legislatures* pp. 109--130 Springer."
+authors: ["Enrico Borghetto", "Marco Giuliani", "Francesco Zucchini"]
+date: "2012"
+categories: ["Italy", "European Union", "lawmaking"]
+---

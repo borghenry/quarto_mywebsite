@@ -1,7 +1,0 @@
----
-title: "L'intervento parlamentare nel processo di conversione dei decreti-legge pandemici"  
-date: 2021-02-01
-publishDate: ""
-authors: ["Enrico Borghetto"]
-abstract: ""
----

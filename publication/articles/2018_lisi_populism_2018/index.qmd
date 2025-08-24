@@ -1,0 +1,9 @@
+---
+title: "Marco Lisi & Enrico Borghetto (2018). **Populism, Blame Shifting and the Crisis: Discourse Strategies in Portuguese Political Parties**. *South European Society and Politics*, 23(4), 405--427."
+authors: ["Marco Lisi", "Enrico Borghetto"]
+date: "2018"
+categories: ["party politics", "populism", "Portugal"]
+abstract: |
+  Populist parties have been gaining ground in European political systems. Against this backcloth, Portugal stands out as the only Southern European country in which traditional mainstream parties have not faced a sharp rise in populist challengers. This article relies on content analysis of election manifestos to examine the use of populist claims by the main Portuguese parties before and after the crisis (1995–2015). Our findings reveal that populist rhetoric has been used mainly by left-wing radical parties as a wedge to disrupt a decade-old status quo. Moreover, we did not find a significant increase in the frequency of populist rhetorical elements after the crisis, either in mainstream or challenger parties. Overall, in the Portuguese case, ideology is the most important factor that explains the adoption of a populist discourse.
+doi: "10.1080/13608746.2018.1558606"
+---

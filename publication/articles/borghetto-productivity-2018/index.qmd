@@ -1,8 +1,0 @@
----
-title: "Productivity and Reselection in a Party-based Environment: Evidence from the Portuguese Case"
-date: 2018-10-01
-authors: ["Enrico Borghetto", "Marco Lisi"]
-abstract: "Portugal is a crucial case when studying candidate reselection in a party-dominated setting. While we expect the productivity of Members of Parliament (MP) to be strongly associated with reselection, it should not affect the position of reselected representatives on the party list. These expectations are tested using data on MPs' parliamentary activities across eight years (from 2007 to 2015), while controlling for alternative hypotheses. Although the two main hypotheses are confirmed, we found that both electoral vulnerability and district magnitude condition the effect of MPs’ productivity on reselection. Overall, the results are in line with the literature on reselection and suggest that other factors, such as party loyalty, may be germane to the understanding of the reselection process in Portugal."
-doi: "10.1093/pa/gsx051"
----
-

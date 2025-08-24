@@ -1,6 +1,0 @@
----
-title: "A Agenda do Conselho Europeu face às Crises"
-date: 2019-01-01
-authors: ["Marcello Carammia", "Enrico Borghetto", "Maria Sousa Galito"]
----
-

@@ -1,7 +1,0 @@
----
-title: "Questioning the Government in Time of Crisis. An Analysis of Question Time in Spain"
-date: 2015-01-01
-authors: ["Enrico Borghetto"]
-abstract: ""
----
-

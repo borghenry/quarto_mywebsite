@@ -1,9 +1,0 @@
----
-title: "Government Agenda-Setting in Italian Coalitions. Testing the «Partisan Hypothesis» Using Italian Investiture Speeches 1979- 2014"
-date: 2017-01-01
-authors: ["Enrico Borghetto", "Francesco Visconti", "Marco Michieli"]
-abstract: "Despite variations in institutional and political settings, comparative political research is consistent in pointing to executives as the main drivers of national agendas in parliamentary systems. After presenting a new dataset coding the policy content of investiture speeches of appointed Italian Prime Ministers between 1979 and 2014, this article offers a new strategy to test the «partisan hypothesis », i.e., the relationship between ideology and the issue composition of executives' policy agendas. By comparing each pair of Italian governments' programmatic speeches through multivariate analyses, we show that the ideological distance of governments is a good predictor for agenda divergence in a multiparty- coalition political system."
-doi: "10.1483/87214"
-categories: [agenda-setting, public policy, Prime Minister investiture, Italy]
----
-

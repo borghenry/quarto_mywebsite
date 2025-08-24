@@ -1,0 +1,6 @@
+---
+title: "Marcello Carammia, Enrico Borghetto, & Maria Sousa Galito (2019). **A Agenda do Conselho Europeu face às Crises**. In Isabel Camisão, Ana Paula Brandão (eds.), *O estado da União Europeia: : Da(s) Crise(s) à Mudança?* pp. 23--42 Petrony."
+authors: ["Marcello Carammia", "Enrico Borghetto", "Maria Sousa Galito"]
+date: "2019"
+categories: ["agenda-setting", "European Union"]
+---

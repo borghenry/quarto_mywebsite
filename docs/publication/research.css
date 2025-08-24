@@ -1,0 +1,10 @@
+/* Strong selectors + !important to beat theme defaults */
+.quarto-listing .listing-item .listing-date,
+.listing .listing-item .listing-date,
+.listing-date {
+  font-size: 1.6rem !important;
+  font-weight: 700 !important;
+  line-height: 1.1 !important;
+  display: block !important;
+  margin-bottom: 0.2rem !important;
+}

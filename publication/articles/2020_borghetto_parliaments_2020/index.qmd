@@ -1,0 +1,6 @@
+---
+title: "Enrico Borghetto, Julie Sevenans, & Emiliano Grossman (2020). **Parliament’s (lack of) agenda-setting power over the executive decision agenda: evidence from Belgium, France and Portugal**. *Brazilian Journal of Public Administration*, 54(6), 1588-1612."
+authors: ["Enrico Borghetto", "Julie Sevenans", "Emiliano Grossman"]
+date: "2020"
+categories: ["agenda-setting", "legislatures", "governments"]
+---

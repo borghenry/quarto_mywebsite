@@ -1,0 +1,8 @@
+---
+title: "Enrico Borghetto, Luca Manucci, & Derek A. Epp (*in press*). **Is the populist Robin Hood a fairy tale? Parliamentary attention to social welfare**. *Journal of European Public Policy*."
+authors: ["Enrico Borghetto", "Luca Manucci", "Derek A. Epp"]
+date: "2025-12-31"
+categories: ["populism", "legislatures", "agenda-setting", "comparative politics", "welfare issues"]
+abstract: |
+  In the aftermath of the Great Recession, populist parties rose to prominence across Europe, campaigning on the promise to do something about growing economic inequality by funding social welfare programs. We investigate if the pro-welfare reputation of European populist parties, either on the left or the right, is well deserved. We draw on a dataset of questions asked by members of parliament from nine European democracies over three decades. We want to know if members of populist parties spend more of their question time asking about social welfare than members of mainstream parties. Empirical analyses reveal no meaningful difference: populist parties ask about welfare but do not devote a larger share of their questions to the topic than non-populist parties, and rising economic inequality does nothing to change this dynamic. If anything, populist parties ask about welfare less. Our results suggest that populists talk the talk but – once elected – do not walk the walk.
+---

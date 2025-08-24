@@ -1,7 +1,0 @@
----
-title: "Leading governments and unwilling legislators. The European Union and the Italian Law making (1987-2006)"
-date: 2012-01-01
-authors: ["Enrico Borghetto", "Marco Giuliani", "Francesco Zucchini"]
-abstract: ""
----
-

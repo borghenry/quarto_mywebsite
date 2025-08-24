@@ -13,7 +13,7 @@ website:
     background: "#4DAB74"
     right:
       - text: "CV"
-        file: cv.qmd
+        file: cv/cv.qmd
       - text: "Posts"
         file: posts/posts.qmd
       - text: "Research"
@@ -36,8 +36,7 @@ format:
       sidebar-width: 200px
       margin-width: 300px
     theme:
-      - cosmo
-    css: custom.scss
+      - flatly
     toc: true
 editor: visual
 

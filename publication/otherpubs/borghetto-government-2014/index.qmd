@@ -1,7 +1,0 @@
----
-title: "Government failure, opposition success? Parties electoral performance in Portugal and Italy at the time of the crisis"
-date: 2014-01-01
-authors: ["Enrico Borghetto", "Elisabetta De Giorgi", "Marco Lisi"]
-abstract: ""
----
-

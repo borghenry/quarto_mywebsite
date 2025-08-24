@@ -14,4 +14,7 @@ listing:
 page-layout: full
 title-block-banner: false
 comments: false
+format:
+  html:
+    css: posts.css
 ---

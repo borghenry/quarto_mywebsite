@@ -1,0 +1,7 @@
+---
+title: "Enrico Borghetto, Marco Giuliani, & Francesco Zucchini (2009). **Quanta Bruxelles c'è a Roma? L'europeizzazione della produzione normativa italiana**. *Rivista Italiana di Politiche Pubbliche*, 135--162."
+authors: ["Enrico Borghetto", "Marco Giuliani", "Francesco Zucchini"]
+date: "2009"
+categories: ["Italy", "law-making", "europeanization"]
+doi: "10.1483/29153"
+---

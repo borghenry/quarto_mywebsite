@@ -6,23 +6,27 @@ listing:
     sort: "date desc"
     fields: [date, title, categories]
     categories: true
-    feed: 
-      items: 10
+    page-size: 10
   - id: book-chapters
     contents: "chapters/*/index.qmd"
     sort: "date desc"
     fields: [date, title, categories]
     categories: true
+    page-size: 10
   - id: otherpubs
     contents: "otherpubs/*/index.qmd"
     sort: "date desc"
     fields: [date, title, categories]
     categories: true
+    page-size: 10
 
 page-layout: full
 include-back-link: true
 toc-location: right
 date-format: "YYYY"
+format:
+  html:
+    css: research.css
 ---
 
 ## Journal articles

@@ -1,8 +1,0 @@
----
-title: "Italian Law-Making Archive: A new tool for the analysis of the Italian legislative process"
-date: 2012-01-01
-authors: ["Enrico Borghetto", "Luigi Curini", "Marco Giuliani", "Alessandro Pellegata", "Francesco Zucchini"]
-abstract: ""
-doi: "10.1426/38618"
----
-
