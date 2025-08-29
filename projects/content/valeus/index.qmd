@@ -1,0 +1,7 @@
+---
+title: ValEUs
+categories: [valeus]
+image: featured.png
+description: "I am part of the Florence team contributing to the Jean Monnet Policy Network “ValEUs. Research & Education Network on Contestations to EU Foreign Policy"
+redirect: https://www.valeus.eu/
+---

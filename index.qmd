@@ -40,7 +40,7 @@ writeLines(redirects, here::here("_site", "_redirects"))
 
 I am an Associate Professor in the [Department of Political and Social Sciences](https://www.dsps.unifi.it/) and at the [School of Political Science "Cesare Alfieri"](https://www.sc-politiche.unifi.it/index.php) at the University of Florence.
 
-I [teach](https://unifi.coursecatalogue.cineca.it/docente-id/689ec947f48d507bfb514310/2025) an introductory undergraduate-level course in Political Science as well as a Master’s-level course in European politics.
+I [teach](https://unifi.coursecatalogue.cineca.it/docente-id/689ec947f48d507bfb514310/2025) an undergraduate-level course in Comparative Politics as well as a Master’s-level course in European politics.
 
 My research focuses on comparative political institutions, with particular attention to parliamentary agenda-setting, coalition governance, crisis politics, and the interplay between national and European decision-making. I investigate how political actors shape policy priorities, allocate attention across issues, and adapt institutional processes in response to challenges such as populism and crises.
 
