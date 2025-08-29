@@ -3,4 +3,5 @@ title: Replan-EU
 image: featured.png
 categories: [replaneu]
 description: "Jean Monnet Module - Implementing Resilience and Recovery Plans in Italy and beyond"
+redirect: https://www.dsps.unifi.it/p577.html
 ---

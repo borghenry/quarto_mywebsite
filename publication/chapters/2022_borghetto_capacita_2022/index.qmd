@@ -2,5 +2,5 @@
 title: "Enrico Borghetto & Francesco Marangoni (2022). **La capacità del governo in Italia: un rafforzamento incompiuto**. In Gianfranco Baldini, Andrea Pritoni (eds.), *Il sistema politico Italiano: cittadini, attori e istituzioni* pp. 231--156 Mondadori."
 authors: ["Enrico Borghetto", "Francesco Marangoni"]
 date: "2022"
-categories: ["governments", "Italy", "legislatures", "law-making"]
+categories: ["governments", "Italy", "legislatures", "lawmaking"]
 ---

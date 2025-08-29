@@ -2,6 +2,7 @@
 title: "Enrico Borghetto, Marco Giuliani, & Francesco Zucchini (2009). **Quanta Bruxelles c'è a Roma? L'europeizzazione della produzione normativa italiana**. *Rivista Italiana di Politiche Pubbliche*, 135--162."
 authors: ["Enrico Borghetto", "Marco Giuliani", "Francesco Zucchini"]
 date: "2009"
-categories: ["Italy", "law-making", "europeanization"]
+categories: ["Italy", "lawmaking", "europeanization"]
 doi: "10.1483/29153"
+abstract: "Towards the end of the ‘80s, the President of the European Commission Jacques Delors predicted that in a decade most of the domestic legislation would be decided in Brussels. Apart from the necessity to interpret more or less rigidly this “prophecy”, the famous Delors’ statement has the merit to raise an interesting empirical question: what is the scope of Europeanization of national law-making? Firstly, this article discusses the methodological problems posed by an accurate measurement of the amount of legislation induced by EU membership. Secondly, it offers a tentative evaluation of this effect in the Italian case over the period 1986-2007. Our findings reveal that, although the actual ratio of Europeanized norms is distant from what was originally envisioned by Delors, the EU influence on Italian normative output has been constantly increasing in absolute and relative terms both with regards to the primary and the secondary legislation."
 ---

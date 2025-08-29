@@ -55,12 +55,7 @@
   },
   {
     "listing": "/projects/projects.html",
-    "items": [
-      "/projects/content/cap/index.html",
-      "/projects/content/MEDem/index.html",
-      "/projects/content/ReplaneuPRIN/index.html",
-      "/projects/content/replaneu/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/posts/posts.html",

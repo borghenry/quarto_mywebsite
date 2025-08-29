@@ -2,9 +2,23 @@
 title: "Projects"
 page-layout: full
 listing:
-  contents: content
   type: grid
-  fields: [image, title, description, categories]
-  image-align: left
-title-block-banner: true
+  fields: [image, title, description]
+  contents:
+    - title: "REPLAN-EU PRIN"
+      image: content\ReplaneuPRIN\featured.png
+      description: "Project funded by NGEU and Italian Ministry of Research: 'Explaining the formulation and implementation of Recovery and Resilience Plans in Europe: a comparative approach'"
+      path: https://www.dsps.unifi.it/p577.html
+    - title: "MEDEM"
+      image: content\MEDem\featured.png
+      description: "Scientific coordinator of the 'Service Center for Country and Institutional Data' established at the Department of Political and Social Sciences, University of Florence"
+      path: https://www.medem.eu/
+    - title: "REPLAN-EU"
+      image: content\Replaneu\featured.png
+      description: "Jean Monnet Module - Implementing Resilience and Recovery Plans in Italy and beyond"
+      path: https://www.dsps.unifi.it/p577.html
+    - title: "CAP"
+      image: content\cap\featured.png
+      description: "Principal investigator in two national cap teams: Italian and Portuguese policy agendas"
+      path: https://www.comparativeagendas.net/     
 ---

@@ -2,7 +2,7 @@
 title: "Enrico Borghetto (2023). **Virtual Parliament in Italy: if not now, when? The debate about a virtual Parliament during the pandemic emergency**. *Interdisciplinary Political Studies*, 9(1), 5--19."
 authors: ["Enrico Borghetto"]
 date: "2023"
-categories: ["Italy", "lawmaking", "legislatures", "COVID-19", "digitalisation"]
+categories: ["Italy", "lawmaking", "legislatures", "COVID-19", "digital politics"]
 abstract: |
   The emergence and spread of the Covid-19 emergency in Italy, as in the rest of the world, required parliaments to balance two priorities: ensuring the continuity of parliamentary work and protecting the health of their members and staff. If, in some legislative assemblies, the difficult balance between the right to health and the functioning of parliamentary institutions has been pursued through the implementation of measures that contemplate the use of remote participation and voting, the choices made by the Italian chambers have been more conservative, never coming to favor such solutions, at least in the plenary. This paper contributes to the debate on the digitization of parliamentary assemblies by analyzing the political reasons behind the decision to maintain the status quo in Italy, a country where the containment measures to limit the spread of Covid-19 were among the strictest in the world.
 doi: "10.1285/i20398573v9n1p5"

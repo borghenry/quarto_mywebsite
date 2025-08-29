@@ -2,6 +2,6 @@
 title: "Enrico Borghetto, Fabio Franchino, & Daniela Giannetti (2006). **Complying with the transposition deadlines of EU directives. Evidence from Italy**. *Rivista Italiana di Politiche Pubbliche*, 7--38."
 authors: ["Enrico Borghetto", "Fabio Franchino", "Daniela Giannetti"]
 date: "2006"
-categories: ["Italy", "European Union", "compliance"]
+categories: ["Italy", "European Union", "EU compliance"]
 doi: "10.1483/21752"
 ---

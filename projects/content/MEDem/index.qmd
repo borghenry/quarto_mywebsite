@@ -3,7 +3,5 @@ title: Monitoring Electoral Democracy
 categories: [MEDEM]
 image: featured.png
 description: "I am Member of the Board of directors and scientific coordinator of the 'Service Center for Country and Institutional Data' established at the Department of Political and Social Sciences, University of Florence of the European infrastructure project MEDEM"
+redirect: https://www.medem.eu/
 ---
-
-
-

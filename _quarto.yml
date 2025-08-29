@@ -36,7 +36,7 @@ format:
       sidebar-width: 200px
       margin-width: 300px
     theme:
-      - flatly
+      - litera
     toc: true
 editor: visual
 
