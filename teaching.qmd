@@ -4,13 +4,13 @@ description: "Teaching profile, courses, and selected training activities."
 toc: true
 ---
 
-This page provides a compact overview of my current teaching profile and selected recent teaching activities. For official and updated course information, please refer to my [University of Florence teaching page](https://unifi.coursecatalogue.cineca.it/docente-id/68dcca81c0c746e140166a3f/2025).
+This page provides a compact overview of my current teaching profile and selected recent teaching activities. For official and updated course information, please refer to my [University of Florence teaching page](https://unifi.coursecatalogue.cineca.it/docente-id/6a022368e2b963582449eab6/2025).
 
 ::: teaching-card
 ## Current teaching
 
-- `Comparative Politics`, undergraduate course, University of Florence
-- `European Politics and Policy in the Contemporary World`, postgraduate course, University of Florence
+- `Introduction to Political Science`, undergraduate course, University of Florence
+- `The EU in the Contemporary World`, postgraduate course, University of Florence
 :::
 
 ::: teaching-card
