@@ -1,0 +1,28 @@
+<div class="list">
+  <% for (const item of items) { %>
+  <div class="list-item" <%= metadataAttrs(item) %> style="margin-bottom: 2rem;">
+    
+    <div class="listing-date"><%- item.date %></div>
+    
+    <div class="listing-title">
+      <a href="<%- item.path %>" style="text-decoration: none; color: inherit;">
+        <%- item.title %>
+      </a>
+    </div>
+
+    <% if (item.abstract) { %>
+    <div class="abstract-toggle-container" style="margin-top: 10px;">
+      <button class="btn btn-link btn-sm toggle-button" 
+              onclick="toggleAbstract(this)" 
+              style="padding: 0; text-decoration: none; font-weight: 600; color: #0d6efd;">
+        [+ Abstract]
+      </button>
+      <div class="abstract-content" style="display: none; margin-top: 10px; padding: 15px; background-color: #f9f9f9; border-left: 2px solid #0d6efd; font-size: 0.95rem; text-align: justify;">
+        <%- item.abstract %>
+      </div>
+    </div>
+    <% } %>
+    
+  </div>
+  <% } %>
+</div>

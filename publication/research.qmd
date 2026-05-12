@@ -1,0 +1,50 @@
+---
+title: "Research"
+description: "Journal articles, book chapters, and other publications by Enrico Borghetto."
+listing:
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    fields: [date, title, categories, doi]
+    categories: true
+    page-size: 10
+  - id: book-chapters
+    contents: "chapters/*/index.qmd"
+    sort: "date desc"
+    fields: [date, title, categories]
+    categories: true
+    page-size: 10
+  - id: otherpubs
+    contents: "otherpubs/*/index.qmd"
+    sort: "date desc"
+    fields: [date, title, categories]
+    categories: true
+    page-size: 10
+
+page-layout: full
+include-back-link: true
+toc-location: right
+date-format: "YYYY"
+format:
+  html:
+    css: research.css
+---
+
+This page collects publications by type for easier browsing. Journal articles are listed first, followed by book chapters and other outputs.
+
+Readers interested in current collaborations and funded work may also want to consult the [Projects](/projects/projects.html) page. A full career overview is available in the [CV](/cv/cv.html).
+
+## Journal articles
+
+::: {#articles}
+:::
+
+## Book chapters
+
+::: {#book-chapters}
+:::
+
+## Other publications
+
+::: {#otherpubs}
+:::

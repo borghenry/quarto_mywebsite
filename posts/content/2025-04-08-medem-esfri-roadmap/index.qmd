@@ -1,0 +1,17 @@
+---
+title: MEDEM Applied for ESFRI Roadmap 2026
+author: Enrico Borghetto
+date: '2025-04-08'
+categories:
+- research
+- medem
+image: featured.webp
+---
+
+The [Monitoring Electoral Democracy (MEDEM)](https://www.medem.eu/) research network formally submitted its application for inclusion in the [ESFRI Roadmap 2026](https://www.esfri.eu/). This application represents a coordinated effort to consolidate a European infrastructure dedicated to the systematic study of electoral processes and democratic health.
+
+In the context of this international collaboration, I was appointed head of the Service Center for Country and Institutional Data (SCCID). The center is hosted at the [University of Florence](https://www.unifi.it/changelang-eng.html) within the [Department of Political and Social Sciences (DSPS)](https://www.dsps.unifi.it/).
+
+The SCCID is designed to annotate and harmonize meso- and macro-level data essential for political analysis. The center's scope includes the curation of election results, party system metrics, expert indices, and official statistics. By providing these integrated resources, the SCCID enables researchers to perform rigorous comparative analyses of democratic systems across different institutional frameworks.
+
+![](featured.png)

@@ -1,0 +1,13 @@
+---
+title: '"Parliaments in the pandemic" Workshop n.2'
+categories:
+  - legitech
+  - conferences
+date: '2022-07-21'
+author: Enrico Borghetto
+image: featured.png
+---
+
+On July 20th 2022, I participated in the second workshop of the research network "Parliaments in the pandemic" (PiP). PiP is an international collaboration gathering experts on parliaments organised under the aegis of the Research Committee of Legislative Specialists (RCLS) of the International Political Science Association (IPSA). For more information: <https://regierungslehre.politik.uni-halle.de/forschung_regierungslehre/parlamente_in_der_pandemie/>
+
+![](images/Pip_network.png)

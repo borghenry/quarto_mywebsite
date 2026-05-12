@@ -1,0 +1,6 @@
+---
+title: "Enrico Borghetto (2018). **Anti-Populismo**. In José Eduardo Franco (ed.), *Dicionário dos Antis: A cultura Portuguesa em negativo* pp. 1482--1485 INCM – Imprensa Nacional Casa da Moeda."
+authors: ["Enrico Borghetto"]
+date: "2018"
+categories: ["populism", "dictionary entry"]
+---

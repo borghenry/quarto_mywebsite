@@ -1,0 +1,23 @@
+---
+title: 'Modernizing the Legislative Process: Reflections During a Workshop at the
+  South Korean Assembly'
+author: Enrico Borghetto
+date: '2025-07-17'
+categories:
+- conferences
+- talks
+- legislative studies
+image: featured.png
+---
+
+In July 2025, I participated in the [26th IPSA World Congress of Political Science](https://www.ipsa.org) held at the [Coex Convention Center](https://www.coexcenter.com) in Seoul, South Korea. Following the congress, I was invited by the [National Assembly Research Service (NARS)](https://www.google.com/search?q=https://nars.go.kr/en/index.do) of the Republic of Korea to serve as a discussant for a special seminar. The event focused on a special issue of the journal Legislation and Policy Studies, an outlet officially accredited by the National Research Foundation of Korea.
+
+During the seminar, I provided comments on the paper "Modernizing the Legislative Process" by Prof. Sven T. Siefken. My intervention focused on the digital transformation of parliaments, drawing parallels between the challenges faced by the Korean parliament and those in Italy and Germany.
+
+A central theme of my reflection was the conceptualization of parliaments as information-processing institutions. In an era where data flows at speeds that outpace traditional deliberative rhythms, parliaments must evolve to handle complex signals from society and transform them into coherent decisions. I emphasized that digital tools and AI should not be seen as "silver bullets" but as instruments to complement human judgment during political deliberation.
+
+However, I also raised concerns regarding the potential for AI to amplify existing power imbalances. Governing parties often possess greater resources and technical staff, which could lead to a concentration of power if AI-generated information and drafting assistants are not accessible to all parliamentary groups. This risk underscores the importance of maintaining the principle of equal participation in legislative work.
+
+In conclusion, I proposed that parliaments invest in neutral administrative services—such as data analysts and policy advisors—to help elected representatives navigate this new informational reality. Ultimately, parliamentary democracy functions as a living process of collective learning, where the goal is to organize shared ignorance into intelligent, legitimate action.
+
+![](featured.png)

@@ -1,0 +1,8 @@
+---
+title: "Enrico Borghetto (2018). **Challenger parties in Parliament: the case of the Italian Five Star Movement**. *Italian Political Science*, 13(3), 19--32."
+authors: ["Enrico Borghetto"]
+date: "2018"
+categories: ["Italy", "party politics", "legislatures", "parliamentary questions"]
+abstract: |
+  In 2013, the Five Star Movement (M5S) won representation for the first time in the Italian parliament, the heart of the institutions they criticised and aimed to reform. With parliamentary ranks filled mostly with inexperienced politicians and a strong identification with the role of outsiders challenging the mainstream political consensus, the expectation is that their opposition style should differ substantially from that of other parties. This article explores this question by comparing the policy content of oral parliamentary questions submitted by the M5S with that of other Italian opposition parties during the 17th legislature (2013-2018). It analyses to what extent the M5S’s issue profile 1) overlaps more with parties of either the left or the right side of the political spectrum, 2) is more likely to deal with matters emphasised in its electoral platform, and 3) is more likely to address issues not attended to by other parties. The results provide new insights into the behaviour of new challenger parties in parliament.
+---

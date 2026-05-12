@@ -1,0 +1,14 @@
+.quarto-listing .listing-item .listing-date,
+.listing .listing-item .listing-date,
+.listing-date {
+  font-size: 0.95rem !important;
+  font-weight: 600 !important;
+  line-height: 1.2 !important;
+  display: block !important;
+  margin-bottom: 0.2rem !important;
+  color: #2f6245 !important;
+}
+
+.quarto-listing .listing-item .listing-title {
+  font-weight: 600;
+}

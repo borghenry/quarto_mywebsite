@@ -1,0 +1,6 @@
+---
+title: "Enrico Borghetto (2013). **Keeping the pace with Europe: Non-compliance with the transposition deadline of EU directives in the Italian case**. Epoke Edizioni."
+authors: ["Enrico Borghetto"]
+date: "2013"
+categories: ["Italy", "European Union", "EU compliance"]
+---

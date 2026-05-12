@@ -1,0 +1,166 @@
+:root {
+  --site-green: #3f7f5a;
+  --site-green-dark: #2f6245;
+  --site-accent: #eff5f0;
+  --site-border: #d9e5dc;
+  --site-text: #1f2933;
+  --site-muted: #5b6773;
+  --site-surface: #f8fbf9;
+}
+
+body {
+  color: var(--site-text);
+  text-rendering: optimizeLegibility;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover,
+.navbar-brand:hover {
+  color: rgba(255, 255, 255, 0.92) !important;
+}
+
+.quarto-title-banner {
+  margin-bottom: 1.5rem;
+}
+
+.quarto-about-trestles .about-entity {
+  align-items: center;
+  gap: 2rem;
+}
+
+.quarto-about-trestles .about-entity .about-image img {
+  border-radius: 18px;
+  box-shadow: 0 10px 24px rgba(31, 41, 51, 0.12);
+}
+
+.quarto-about-trestles .about-contents {
+  max-width: 70ch;
+}
+
+.quarto-about-trestles .about-contents p,
+main.content p,
+main.content li {
+  line-height: 1.7;
+}
+
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.85rem;
+}
+
+.about-links .about-link {
+  border: 1px solid var(--site-border);
+  border-radius: 999px;
+  padding: 0.42rem 0.8rem;
+  background: #ffffff;
+  color: var(--site-green-dark);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.about-links .about-link:hover,
+.about-links .about-link:focus {
+  background: var(--site-accent);
+  color: var(--site-green-dark);
+}
+
+.home-section,
+.teaching-card {
+  margin: 1.75rem 0;
+  padding: 1.25rem 1.35rem;
+  border: 1px solid var(--site-border);
+  border-radius: 14px;
+  background: var(--site-surface);
+}
+
+.home-section h2,
+.teaching-card h2,
+.teaching-card h3 {
+  margin-top: 0;
+}
+
+.compact-list {
+  padding-left: 1.15rem;
+  margin-bottom: 0;
+}
+
+.compact-list li + li {
+  margin-top: 0.45rem;
+}
+
+.callout.callout-style-simple {
+  border-left-color: var(--site-green);
+}
+
+.listing-description,
+.listing-subtitle,
+.listing-category {
+  color: var(--site-muted);
+}
+
+.quarto-listing .listing-item {
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid #ebf1ec;
+}
+
+.quarto-listing .listing-item:last-child {
+  border-bottom: 0;
+}
+
+.quarto-listing .listing-item .listing-date {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--site-green-dark);
+}
+
+.card {
+  border-color: #e7efe9;
+  box-shadow: none;
+}
+
+.card:hover {
+  border-color: var(--site-border);
+}
+
+.page-columns .column-page p,
+.page-columns .column-page li {
+  max-width: 72ch;
+}
+
+main a {
+  text-underline-offset: 0.16em;
+}
+
+main a:hover,
+main a:focus {
+  color: var(--site-green-dark);
+}
+
+.footer,
+.nav-footer {
+  font-size: 0.95rem;
+}
+
+@media (max-width: 991.98px) {
+  .quarto-about-trestles .about-entity {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .about-links {
+    justify-content: center;
+  }
+}

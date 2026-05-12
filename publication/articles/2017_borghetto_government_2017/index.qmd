@@ -1,0 +1,7 @@
+---
+title: "Enrico Borghetto, Francesco Visconti, & Marco Michieli (2017). **Government Agenda-Setting in Italian Coalitions. Testing the «Partisan Hypothesis» Using Italian Investiture Speeches 1979- 2014**. *Rivista Italiana di Politiche Pubbliche*, 193--220."
+authors: ["Enrico Borghetto", "Francesco Visconti", "Marco Michieli"]
+date: "2017"
+categories: ["Italy", "agenda-setting", "coalition politics", "governments"]
+doi: "10.1483/87214"
+---

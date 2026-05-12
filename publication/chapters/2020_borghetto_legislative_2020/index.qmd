@@ -1,0 +1,6 @@
+---
+title: "Enrico Borghetto & Marco Lisi (2020). **Legislative Activities before and after the Great Recession: An Analysis of Unemployment and Social Welfare Issues**. In Marco Lisi, André Freire, Emmanouil Tsatsanis (eds.), *Political Representation and Citizenship in Portugal* pp. 173--191 Lexington Books."
+authors: ["Enrico Borghetto", "Marco Lisi"]
+date: "2020"
+categories: ["lawmaking", "welfare issues", "parliamentary questions", "agenda-setting"]
+---

@@ -1,0 +1,6 @@
+---
+title: "Borghetto, Enrico. 2025. **“Tra Interferenze Nei Processi Democratici e Regolamentazione: Il Costituzionalismo Digitale Di Balaguer.”** In *La Constitución Del Algoritmo. Recensiones, Presentaciones y Entrevistas,* Zaragoza: Fundación Manuel Giménez Abad, 97–102."
+authors: ["Enrico Borghetto"]
+date: "2025"
+categories: ["digital politics", "Spain", "legislatures", "review"]
+---

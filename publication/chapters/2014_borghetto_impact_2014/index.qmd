@@ -1,0 +1,7 @@
+---
+title: "Enrico Borghetto, Marcello Carammia, & Francesco Zucchini (2014). **The Impact of Party Policy Priorities on Italian Law-Making from the First to the Second Republic (1983-2006)**. In Stefaan Walgrave, Christoffer Green-Pedersen (eds.), *Agenda Setting, Policies, and Political Systems* pp. 164--182 Chicago University Press."
+authors: ["Enrico Borghetto", "Marcello Carammia", "Francesco Zucchini"]
+date: "2014"
+categories: ["Italy", "party politics", "lawmaking"]
+doi: "10.7208/chicago/9780226128443.001.0001"
+---

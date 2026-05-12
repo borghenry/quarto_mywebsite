@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Enrico Borghetto"
+  site-url: "https://www.enricoborghetto.eu"
+  favicon: favicon.png
+  repo-url: https://github.com/gitborghenry/quarto_mywebsite.git
+  description: "Academic website of Enrico Borghetto, Associate Professor of Political Science at the University of Florence."
+  open-graph: true
+  twitter-card: true
+  cookie-consent: false
+  search: true
+  navbar:
+    background: "#3F7F5A"
+    foreground: "#ffffff"
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        file: publication/research.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Projects"
+        file: projects/projects.qmd
+      - text: "News"
+        file: posts/posts.qmd
+    right:
+      - text: "CV"
+        file: cv/cv.qmd
+  page-footer:
+    left: |
+      {{< fa regular copyright >}} Enrico Borghetto, 2026<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
+      Opinions are my own and do not represent my employer
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+  page-navigation: true
+
+format:
+  html:
+    grid:
+      body-width: 960px
+      sidebar-width: 200px
+      margin-width: 240px
+    theme:
+      - litera
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+editor: visual

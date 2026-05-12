@@ -1,0 +1,22 @@
+---
+title: 2024 Anno Elettorale
+author: Enrico Borghetto
+date: '2024-11-21'
+categories:
+- talks
+- research
+- European Union
+image: featured.png
+---
+
+On November 21, 2024, the conference "2024 Anno elettorale" (2024 Electoral Year) took place at the Campus delle Scienze Sociali of the [University of Florence](https://www.unifi.it/). The event was organized by the [Department of Political and Social Sciences (DSPS)](https://www.dsps.unifi.it/) and the [School of Political Sciences "Cesare Alfieri"](https://www.sc-politiche.unifi.it/) to analyze the significant electoral cycles that have shaped the global political landscape throughout the year.
+
+During the afternoon session, I participated in a round table discussion focused on the European elections six months after the vote. My presentation, titled "Il pendolo dei popolari e la ricerca di equilibri nella nuova legislatura" (The pendulum of the PPE and the search for a balance in the new legislature), examined the strategic positioning of the European People's Party (EPP) within the new European Parliament. The analysis highlighted how the current parliamentary arithmetic might complicate the construction of stable majorities and potentially shift the institutional balance between the Parliament, the European Commission, and the Council.
+
+The conference brought together various academic perspectives to discuss global trends, including the American elections, the crisis of British social democracy, and electoral dynamics in France and India. The sessions featured contributions from experts associated with the [Istituto Affari Internazionali (IAI)](https://www.iai.it/en) and the [Fondazione Circolo Rosselli](https://www.circolorosselli.it/), fostering a reflective dialogue on the domestic and international repercussions of these electoral outcomes.
+
+The full schedule and list of speakers can be viewed in the [official conference poster](https://www.dropbox.com/scl/fi/q3cbq99frasfcup6ddmmg/Locandina-programma-21-novembre-2024.pdf?rlkey=1di5wolc2grpdvofdjsw5sgs5&dl=0).
+
+The slides from my presentation are available for download here: [Il pendolo dei popolari e la ricerca di equilibri nella nuova legislatura.](https://www.dropbox.com/scl/fi/75ohg93hm37kvj1ztp3w1/2024annoelettorale.pdf?rlkey=0f78w9hy2j7iis6zfth0vdxel&dl=0)
+
+![](featured.png)

@@ -1,0 +1,9 @@
+---
+title: "Eugenio Borgognoni, Igor Guardiancich, Enrico Borghetto, Luca Cabras, Lucia Quaglia (2026). **Alignment and asymmetry: European and national crisis governance under the Recovery and Resilience Facility**, *Policy and Society*, 45(1):71–93"
+authors: ["Eugenio Borgognoni", "Igor Guardiancich", "Enrico Borghetto", "Luca Cabras", "Lucia Quaglia"]
+date: "2026-02-02"
+categories: ["NGEU", "COVID-19", "European Union", "national recovery and resilience plan"]
+abstract: |
+  The European Union (EU) and its member states are a paradigmatic case of governance at multiple levels, whose interpretation and resolution of crises may or may not be aligned. This paper explores such alignment by perusing how the European Union’s NextGenerationEU (NGEU) plan and its centerpiece, the Recovery and Resilience Facility (RRF), contributed to shaping national crisis governance during the COVID-19 pandemic. Focusing on the political dimension of crisis governance, it conceptualizes the EU response as a supranational driver of crisis-induced policy change and interprets National Recovery and Resilience Plans as domestic expressions of this logic. Through the comparative analysis of France, Germany, Italy, and Spain, the study assesses the degree of correspondence between EU and national strategies. The findings suggest that Italy and Spain, which had higher RRF allocations, embraced a “governing by the crisis” approach that transposed the transformative aims of NGEU, resulting in accelerated policy change. In contrast, France and Germany followed a more traditional “governing the crisis” strategy, leading to policy normalization and limited reform progress. The analysis highlights that EU fiscal support played a key role in shaping national priorities and reform trajectories in response to the pandemic.  
+doi: "https://doi.org/10.1093/polsoc/puaf038"
+---

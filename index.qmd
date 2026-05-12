@@ -1,0 +1,56 @@
+---
+title: "Enrico Borghetto"
+subtitle: "Associate Professor of Political Science, University of Florence"
+description: "Research, teaching, publications, projects, and CV of Enrico Borghetto."
+about:
+  template: trestles
+  image: files/avatar.jpg
+  image-shape: round
+  image-alt: "Enrico Borghetto"
+  image-width: 360px
+  links:
+    - icon: envelope
+      text: "Email"
+      href: mailto:enrico.borghetto@unifi.it
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/borghenry
+    - icon: linkedin
+      text: "LinkedIn"
+      href: https://www.linkedin.com/in/enrico-borghetto/
+    - text: "Google Scholar"
+      href: https://scholar.google.pt/citations?user=iLkOp74AAAAJ&hl=en
+    - text: "ORCID"
+      href: https://orcid.org/0000-0001-8676-3583
+comments: false
+---
+
+I am an Associate Professor in the [Department of Political and Social Sciences](https://www.dsps.unifi.it/) at the [University of Florence](https://www.unifi.it/). My work sits at the intersection of comparative politics, legislative studies, coalition governance, and European politics.
+
+My research focuses on comparative political institutions, with particular attention to parliamentary agenda-setting, coalition governance, crisis politics, and the interplay between national and European decision-making. I also teach [Comparative Politics and European Politics](https://unifi.coursecatalogue.cineca.it/docente-id/68dcca81c0c746e140166a3f/2025) at undergraduate and graduate level.
+
+::: {.home-section}
+## Research profile
+
+My current work examines how institutions adapt under pressure, especially in parliamentary democracies and in the governance of the European Union. Ongoing projects include research on recovery and resilience plans, legislative politics, and comparative policy agendas.
+
+You can browse publications by type on the [Research](/publication/research.html) page and find current collaborations on the [Projects](/projects/projects.html) page.
+:::
+
+::: {.home-section}
+## Current roles
+
+- Co-founder and co-PI of the [Italian Policy Agendas Project](https://www.comparativeagendas.net/project/italy) and the [Portuguese Policy Agendas Project](https://www.comparativeagendas.net/project/portugal)
+- Coordinator of the [Jean Monnet Module REPLAN-EU](https://www.dsps.unifi.it/p577.html)
+- Lead of the Florence research unit within the [REPLAN-EU PRIN](https://www.replaneuresearch.eu/home-page) project
+- Member of the Board of Directors of [MEDEM - Monitoring Electoral Democracy](https://medem.eu)
+- Scientific Coordinator of the MEDEM Service Center for Country and Institutional Data at DSPS
+:::
+
+::: {.home-section}
+## For visitors
+
+- Colleagues and collaborators: research areas, recent publications, and active projects are grouped in the main navigation.
+- Students: teaching information and selected course-related activities are collected on the [Teaching](/teaching.html) page.
+- Evaluation committees: the [CV](/cv/cv.html) page provides a fuller record of appointments, publications, service, and research activity.
+:::
