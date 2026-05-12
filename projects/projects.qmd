@@ -4,7 +4,7 @@ description: "Selected research projects, networks, and collaborative initiative
 page-layout: full
 listing:
   type: grid
-  fields: [title, description]
+  fields: [image, title, description]
   contents:
     - title: "REPLAN-EU PRIN"
       image: content/ReplaneuPRIN/featured.png
