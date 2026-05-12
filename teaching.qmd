@@ -6,29 +6,29 @@ toc: true
 
 This page provides a compact overview of my current teaching profile and selected recent teaching activities. For official and updated course information, please refer to my [University of Florence teaching page](https://unifi.coursecatalogue.cineca.it/docente-id/68dcca81c0c746e140166a3f/2025).
 
-::: {.teaching-card}
+::: teaching-card
 ## Current teaching
 
 - `Comparative Politics`, undergraduate course, University of Florence
 - `European Politics and Policy in the Contemporary World`, postgraduate course, University of Florence
 :::
 
-::: {.teaching-card}
+::: teaching-card
 ## Teaching interests
 
 My teaching mainly covers comparative politics, European politics, legislative studies, public policy, and research methods. When relevant, I also integrate training on data analysis in R and empirical research design.
 :::
 
-::: {.teaching-card}
+::: teaching-card
 ## Selected recent activities
 
 - April 2025: workshop for the PhD programme in Public Administration at the University of Milano-Bicocca on NextGenerationEU, national recovery plans, and implementation.
 - 2023: introductory module on the R language for the Master in Digital Transformation, University of Florence.
-- 2022: five-day course on data analysis in R at the Scuola Superiore di Catania.
+- 2022 and 2025: course on data analysis in R at the Scuola Superiore di Catania.
 - 2022-2025: teaching related to the Jean Monnet Module REPLAN-EU and European political economy.
 :::
 
-::: {.teaching-card}
+::: teaching-card
 ## Further information
 
 - A fuller record of past courses and training can be found in the [CV](/cv/cv.html).
