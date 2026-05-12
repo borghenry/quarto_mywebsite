@@ -13,7 +13,7 @@ website:
   cookie-consent: false
   search: true
   navbar:
-    background: "#3F7F5A"
+    background: "#16518C"
     foreground: "#ffffff"
     left:
       - text: "Home"

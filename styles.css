@@ -1,11 +1,11 @@
 :root {
-  --site-green: #3f7f5a;
-  --site-green-dark: #2f6245;
-  --site-accent: #eff5f0;
-  --site-border: #d9e5dc;
+  --site-green: #16518c;
+  --site-green-dark: #123f6d;
+  --site-accent: #eef4fa;
+  --site-border: #d6e2ee;
   --site-text: #1f2933;
   --site-muted: #5b6773;
-  --site-surface: #f8fbf9;
+  --site-surface: #f7fafc;
 }
 
 body {
@@ -113,7 +113,7 @@ main.content li {
 .quarto-listing .listing-item {
   padding-top: 0.85rem;
   padding-bottom: 0.85rem;
-  border-bottom: 1px solid #ebf1ec;
+  border-bottom: 1px solid #e5edf5;
 }
 
 .quarto-listing .listing-item:last-child {
@@ -127,7 +127,7 @@ main.content li {
 }
 
 .card {
-  border-color: #e7efe9;
+  border-color: #e4ecf4;
   box-shadow: none;
 }
 
