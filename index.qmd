@@ -27,7 +27,7 @@ comments: false
 
 I am an Associate Professor in the [Department of Political and Social Sciences](https://www.dsps.unifi.it/) at the [University of Florence](https://www.unifi.it/).
 
-My research focuses on comparative political institutions, with particular attention to parliamentary agenda-setting, coalition governance, crisis politics, and the interplay between national and European decision-making. I also teach [Introduction to Political Science and European Union Politics](https://unifi.coursecatalogue.cineca.it/docente-id/6a022368e2b963582449eab6/2025) at undergraduate and graduate level.  
+My research focuses on comparative political institutions, with particular attention to parliamentary agenda-setting, coalition governance, crisis politics, and the interplay between national and European decision-making. I also teach [Introduction to Political Science and European Union Politics](https://unifi.coursecatalogue.cineca.it/docente-id/6a022368e2b963582449eab6/2025) at undergraduate and graduate level.
 
 You can browse publications by type on the [Research](/publication/research.html) page and find current collaborations on the [Projects](/projects/projects.html) page.
 
@@ -43,5 +43,4 @@ You can browse publications by type on the [Research](/publication/research.html
 - Jean Monnet Module - [Implementing Resilience and Recovery Plans in Italy and beyond](https://www.dsps.unifi.it/p577.html)
 
 - PRIN project - [Explaining the formulation and implementation of Recovery and Resilience Plans in Europe: a comparative approach](https://www.replaneuresearch.eu/home-page)
-
 :::
