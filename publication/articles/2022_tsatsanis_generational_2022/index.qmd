@@ -1,0 +1,26 @@
+---
+title: |-
+  Emmanouil Tsatsanis, Enrico Borghetto, André Freire, and José Ramón Montero. 2022. “Generational and Ideological Gaps in Democratic Support: Seeds of Deconsolidation in Post-Crisis Southern Europe?.” *South European Society and Politics* 26(2): 133--151.
+authors:
+  - 'Emmanouil Tsatsanis'
+  - 'Enrico Borghetto'
+  - 'André Freire'
+  - 'José Ramón Montero'
+date: '2022-12-31'
+categories:
+  - 'Italy'
+  - 'Portugal'
+  - 'Government and Coalitions'
+  - 'Democracy'
+citation-key: 'tsatsanis_generational_2022'
+description: |-
+  Emmanouil Tsatsanis, Enrico Borghetto, André Freire, and José Ramón Montero. 2022. “Generational and Ideological Gaps in Democratic Support: Seeds of Deconsolidation in Post-Crisis Southern Europe?.” *South European Society and Politics* 26(2): 133--151. [https://doi.org/10.1080/13608746.2021.2016245](https://doi.org/10.1080/13608746.2021.2016245)
+abstract: |-
+  This article explores trends in overall levels of democratic support in Portugal, Spain, Italy, and Greece. Additionally, the article examines the extent to which the experience of the steep economic downturn in Southern Europe had specific effects on democratic support across different generations and ideological groups by examining survey data that span three decades. The evidence is mixed concerning the resilience of democratic values in the four South European countries, ranging from stability in Portugal to noticeable decline in Italy. Members of the ‘millennial’ generation appear to be more susceptible to the period effect of the crisis, whereas left-wing and centrist citizens are more likely to select democracy as the best form of government compared to right-wing citizens.
+doi: '10.1080/13608746.2021.2016245'
+---
+
+## Citation
+
+Emmanouil Tsatsanis, Enrico Borghetto, André Freire, and José Ramón Montero. 2022. “Generational and Ideological Gaps in Democratic Support: Seeds of Deconsolidation in Post-Crisis Southern Europe?.” *South European Society and Politics* 26(2): 133--151. [https://doi.org/10.1080/13608746.2021.2016245](https://doi.org/10.1080/13608746.2021.2016245)
+

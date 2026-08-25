@@ -1,5 +1,5 @@
 ---
-title: "Enrico Borghetto (2015). **Challenging Italian centralism through the vertical shift of competences to the subnational and supranational levels**. *Contemporary Italian Politics*, 7(1), 58--75."
+title: "Enrico Borghetto (2015). Challenging Italian centralism through the vertical shift of competences to the subnational and supranational levels. *Contemporary Italian Politics*, 7(1), 58--75."
 authors: ["Enrico Borghetto"]
 date: "2015"
 categories: ["Italy", "European Union", "decentralization"]

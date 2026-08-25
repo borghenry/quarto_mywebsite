@@ -1,8 +1,26 @@
 ---
-title: "Enrico Borghetto, Marcello Carammia, & Federico Russo (2019). **The Italian Agendas Project**. In Frank Baumgartner, Christian Breunig, Emiliano Grossman (eds.), *Comparative Policy Agendas: Theory, Tools, Data* pp. 120--128 Oxford University Press."
-authors: ["Enrico Borghetto", "Marcello Carammia", "Federico Russo"]
-date: "2019"
-categories: ["Italy", "agenda-setting", "party politics", "comparative politics", "lawmaking"]
-abstract: "This book summarizes recent advances in the work on agenda-setting in a comparative perspective. The book first presents and explains the data-gathering effort undertaken within the Comparative Agendas Project over the past ten years. Individual country chapters then present the research undertaken within the many national projects. The third section illustrates the possibilities and directions for new research in comparative public policy using the data presented in this book. All the data used and discussed in the book is moreover publicly available. The book represents a significant contribution to the study of comparative public policy. By introducing a unified research infrastructure it opens up new possibilities for both empirical and theoretical research in this area."
-doi: "10.1093/oso/9780198835332.003.0013"
+title: |-
+  Enrico Borghetto, Marcello Carammia, and Federico Russo. 2019. “The Italian Agendas Project.” In *Comparative Policy Agendas: Theory, Tools, Data*, edited by Frank Baumgartner, Christian Breunig, and Emiliano Grossman, pp. 120--128. Oxford University Press.
+authors:
+  - 'Enrico Borghetto'
+  - 'Marcello Carammia'
+  - 'Federico Russo'
+date: '2019-12-31'
+categories:
+  - 'Italy'
+  - 'Parliaments'
+  - 'Agenda-Setting'
+  - 'Government and Coalitions'
+  - 'Populism'
+citation-key: 'borghetto_italian_2019'
+description: |-
+  Enrico Borghetto, Marcello Carammia, and Federico Russo. 2019. “The Italian Agendas Project.” In *Comparative Policy Agendas: Theory, Tools, Data*, edited by Frank Baumgartner, Christian Breunig, and Emiliano Grossman, pp. 120--128. Oxford University Press. [https://doi.org/10.1093/oso/9780198835332.003.0013](https://doi.org/10.1093/oso/9780198835332.003.0013)
+abstract: |-
+  Since the beginning of its Republican history, the Italian political system has functioned according to two rather different logics. From 1948 to 1994 the Christian Democratic Party was uninterruptedly in office, often in coalition, while the Communist Party remained the major opposition party. After the collapse of these parties, a new system based on the alternation between a centre-right and a centre-left coalition emerged. To date the Italian Policy Agendas Project has released six datasets covering party manifestos, parliamentary questions, investiture speeches, laws, decrees, and budgetary data. Through their analysis, it is possible to assess the elements of stability and change that characterized Italian politics since the mid-eighties as well as some recent evolutions such as the mediatization and personalization of politics, the crisis of mainstream parties, and the advent of anti-establishment and populist parties as key actors of the system.
+doi: '10.1093/oso/9780198835332.003.0013'
 ---
+
+## Citation
+
+Enrico Borghetto, Marcello Carammia, and Federico Russo. 2019. “The Italian Agendas Project.” In *Comparative Policy Agendas: Theory, Tools, Data*, edited by Frank Baumgartner, Christian Breunig, and Emiliano Grossman, pp. 120--128. Oxford University Press. [https://doi.org/10.1093/oso/9780198835332.003.0013](https://doi.org/10.1093/oso/9780198835332.003.0013)
+

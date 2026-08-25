@@ -1,6 +1,17 @@
 ---
-title: "Enrico Borghetto (2023). **EU Talks. Dialoghi sul futuro dell’Europa**. In Adelina Adinolfi, Nicole Lazzerini (eds.), *Una Unione di Cittadini. La costruzione della cittadinanza europea attraverso la partecipazione e la formazione.* pp. 115--118 Giappichelli."
-authors: ["Enrico Borghetto"]
-date: "2023"
-categories: ["European Union"]
+title: |-
+  Enrico Borghetto. 2023. “EU Talks. Dialoghi sul futuro dell’Europa.” In *Una Unione di Cittadini. La costruzione della cittadinanza europea attraverso la partecipazione e la formazione.*, edited by Adelina Adinolfi and Nicole Lazzerini, pp. 115--118. Giappichelli.
+authors:
+  - 'Enrico Borghetto'
+date: '2023-12-31'
+categories:
+  - 'European Union'
+citation-key: 'borghetto_eu_2023'
+description: |-
+  Enrico Borghetto. 2023. “EU Talks. Dialoghi sul futuro dell’Europa.” In *Una Unione di Cittadini. La costruzione della cittadinanza europea attraverso la partecipazione e la formazione.*, edited by Adelina Adinolfi and Nicole Lazzerini, pp. 115--118. Giappichelli.
 ---
+
+## Citation
+
+Enrico Borghetto. 2023. “EU Talks. Dialoghi sul futuro dell’Europa.” In *Una Unione di Cittadini. La costruzione della cittadinanza europea attraverso la partecipazione e la formazione.*, edited by Adelina Adinolfi and Nicole Lazzerini, pp. 115--118. Giappichelli.
+

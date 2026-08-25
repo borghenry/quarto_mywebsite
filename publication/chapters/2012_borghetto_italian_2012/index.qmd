@@ -1,7 +1,26 @@
 ---
-title: "Enrico Borghetto, Luigi Curini, Marco Giuliani, Alessandro Pellegata, & Francesco Zucchini (2012). **Italian Law-Making Archive: A new tool for the analysis of the Italian legislative process**. *Rivista italiana di scienza politica*."
-authors: ["Enrico Borghetto", "Luigi Curini", "Marco Giuliani", "Alessandro Pellegata", "Francesco Zucchini"]
-date: "2012"
-categories: ["Italy", "lawmaking", "legislatures"]
-doi: "10.1426/38618"
+title: |-
+  Enrico Borghetto, Luigi Curini, Marco Giuliani, Alessandro Pellegata, and Francesco Zucchini. 2012. “Italian Law-Making Archive: A new tool for the analysis of the Italian legislative process.” *Rivista italiana di scienza politica*(3/2012): 481--502.
+authors:
+  - 'Enrico Borghetto'
+  - 'Luigi Curini'
+  - 'Marco Giuliani'
+  - 'Alessandro Pellegata'
+  - 'Francesco Zucchini'
+date: '2012-12-31'
+categories:
+  - 'Italy'
+  - 'Parliaments'
+  - 'Government and Coalitions'
+citation-key: 'borghetto_italian_2012'
+description: |-
+  Enrico Borghetto, Luigi Curini, Marco Giuliani, Alessandro Pellegata, and Francesco Zucchini. 2012. “Italian Law-Making Archive: A new tool for the analysis of the Italian legislative process.” *Rivista italiana di scienza politica*(3/2012): 481--502. [https://doi.org/10.1426/38618](https://doi.org/10.1426/38618)
+abstract: |-
+  The Italian Law-Making Archive (ILMA) is a relational database that combines information on the legislation, legislative initiative, legislative processes, parliamentarians and government members and policy positions of parties present in different legislatures and governments. It covers a period that extends from the beginning of the 10th legislature of the Italian Republic in 1987 to the end of the 15th legislature in 2008. In contrast to commonly available data sources, records are non-redundantly stored in the database, are organized in different tables characterized by unique keys, and are linked to each other by relations, thus permitting scholars to extract, through queries on a specific web interface, only those data necessary for their empirical studies. This article aims at presenting ILMA and its main components. We describe the type of data it contains, the sources from which these data have been drawn and the procedures used to aggregate available information in a unique and comprehensive database. In the second part of the paper, we offer some practical applications for potential use of the database for quantitative studies of the Italian legislative process.
+doi: '10.1426/38618'
 ---
+
+## Citation
+
+Enrico Borghetto, Luigi Curini, Marco Giuliani, Alessandro Pellegata, and Francesco Zucchini. 2012. “Italian Law-Making Archive: A new tool for the analysis of the Italian legislative process.” *Rivista italiana di scienza politica*(3/2012): 481--502. [https://doi.org/10.1426/38618](https://doi.org/10.1426/38618)
+

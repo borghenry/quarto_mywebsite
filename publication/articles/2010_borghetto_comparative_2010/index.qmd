@@ -1,0 +1,21 @@
+---
+title: |-
+  Enrico Borghetto and Marcello Carammia. 2010. “The comparative analysis of policy agendas: the Comparative Agendas Project.” *Rivista italiana di scienza politica*(2/2010).
+authors:
+  - 'Enrico Borghetto'
+  - 'Marcello Carammia'
+date: '2010-12-31'
+categories:
+  - 'Italy'
+  - 'Agenda-Setting'
+  - 'Comparative Politics'
+citation-key: 'borghetto_comparative_2010'
+description: |-
+  Enrico Borghetto and Marcello Carammia. 2010. “The comparative analysis of policy agendas: the Comparative Agendas Project.” *Rivista italiana di scienza politica*(2/2010). [https://doi.org/10.1426/32331](https://doi.org/10.1426/32331)
+doi: '10.1426/32331'
+---
+
+## Citation
+
+Enrico Borghetto and Marcello Carammia. 2010. “The comparative analysis of policy agendas: the Comparative Agendas Project.” *Rivista italiana di scienza politica*(2/2010). [https://doi.org/10.1426/32331](https://doi.org/10.1426/32331)
+

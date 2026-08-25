@@ -1,0 +1,25 @@
+---
+title: |-
+  Igor Guardiancich, Mattia Guidi, Enrico Borghetto, and Lucia Quaglia. 2026. “From sanctions to incentives: the impact of NextGenerationEU on the European Semester.” *West European Politics* 0(0): 1--28.
+authors:
+  - 'Igor Guardiancich'
+  - 'Mattia Guidi'
+  - 'Enrico Borghetto'
+  - 'Lucia Quaglia'
+date: '2026-12-31'
+categories:
+  - 'COVID-19'
+  - 'European Union'
+citation-key: 'guardiancich_sanctions_2026'
+description: |-
+  Igor Guardiancich, Mattia Guidi, Enrico Borghetto, and Lucia Quaglia. 2026. “From sanctions to incentives: the impact of NextGenerationEU on the European Semester.” *West European Politics* 0(0): 1--28. [https://doi.org/10.1080/01402382.2026.2715554](https://doi.org/10.1080/01402382.2026.2715554)
+abstract: |-
+  Whereas the EU has been effective in designing ex ante conditionality for accession and Euro adoption, it has struggled to influence domestic reforms once membership is secured. Soft coordination instruments, notably the European Semester, have therefore been regarded as weak. In response to the Covid-19 crisis, NextGenerationEU (NGEU) introduced an incentive-based model of conditionality, moving beyond the Semester’s ineffective sanctions. Using binary logistic regression models, this article shows that Country-Specific Recommendations benefiting from NGEU incentives, i.e. CSRs issued in 2019–20 and included into National Recovery and Resilience Plans, display higher implementation rates than those issued before or after. Based on multi-annual evaluations, the analysis reassesses the Semester’s limited impact and examines how legal-institutional, macroeconomic, domestic-political, and sectoral factors shape reform compliance. Overall, the evidence favours incentive-based over sanction-driven conditionality, suggesting that the NGEU experiment offers credible lessons for recasting EU economic governance, with broader implications for theories of supranational compliance.
+doi: '10.1080/01402382.2026.2715554'
+url: 'https://www.tandfonline.com/doi/abs/10.1080/01402382.2026.2715554'
+---
+
+## Citation
+
+Igor Guardiancich, Mattia Guidi, Enrico Borghetto, and Lucia Quaglia. 2026. “From sanctions to incentives: the impact of NextGenerationEU on the European Semester.” *West European Politics* 0(0): 1--28. [https://doi.org/10.1080/01402382.2026.2715554](https://doi.org/10.1080/01402382.2026.2715554)
+

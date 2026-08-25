@@ -1,6 +1,17 @@
 ---
-title: "Enrico Borghetto (2021). **L'intervento parlamentare nel processo di conversione dei decreti-legge \"pandemici\"**. *Il Filangieri*, Quaderno 2020, 13--27."
-authors: ["Enrico Borghetto"]
-date: "2021"
-categories: ["COVID-19", "Italy", "lawmaking"]
+title: |-
+  Enrico Borghetto. 2021. “L'intervento parlamentare nel processo di conversione dei decreti-legge "pandemici.” *Il Filangieri* Quaderno 2020: 13--27.
+authors:
+  - 'Enrico Borghetto'
+date: '2021-12-31'
+categories:
+  - 'COVID-19'
+citation-key: 'borghetto_intervento_2021'
+description: |-
+  Enrico Borghetto. 2021. “L'intervento parlamentare nel processo di conversione dei decreti-legge "pandemici.” *Il Filangieri* Quaderno 2020: 13--27.
 ---
+
+## Citation
+
+Enrico Borghetto. 2021. “L'intervento parlamentare nel processo di conversione dei decreti-legge "pandemici.” *Il Filangieri* Quaderno 2020: 13--27.
+

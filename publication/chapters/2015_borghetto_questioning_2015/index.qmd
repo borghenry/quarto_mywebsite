@@ -1,6 +1,17 @@
 ---
-title: "Enrico Borghetto (2015). **Questioning the Government in Time of Crisis. An Analysis of Question Time in Spain**. In , Jenny Preunkert, Luis Baptista, Georg Vobruba (eds.), *Aftermath. Political and urban consequences of the euro crisis* pp. 91--116 Edições Colibri."
-authors: ["Enrico Borghetto"]
-date: "2015"
-categories: ["parliamentary questions", "Spain", "legislatures"]
+title: |-
+  Enrico Borghetto. 2015. “Questioning the Government in Time of Crisis. An Analysis of Question Time in Spain.” In *Aftermath. Political and urban consequences of the euro crisis*, edited by Jenny Preunkert, Luis Baptista, and Georg Vobruba, pp. 91--116. Lisbon: Edições Colibri.
+authors:
+  - 'Enrico Borghetto'
+date: '2015-12-31'
+categories:
+  - 'Government and Coalitions'
+citation-key: 'borghetto_questioning_2015'
+description: |-
+  Enrico Borghetto. 2015. “Questioning the Government in Time of Crisis. An Analysis of Question Time in Spain.” In *Aftermath. Political and urban consequences of the euro crisis*, edited by Jenny Preunkert, Luis Baptista, and Georg Vobruba, pp. 91--116. Lisbon: Edições Colibri.
 ---
+
+## Citation
+
+Enrico Borghetto. 2015. “Questioning the Government in Time of Crisis. An Analysis of Question Time in Spain.” In *Aftermath. Political and urban consequences of the euro crisis*, edited by Jenny Preunkert, Luis Baptista, and Georg Vobruba, pp. 91--116. Lisbon: Edições Colibri.
+

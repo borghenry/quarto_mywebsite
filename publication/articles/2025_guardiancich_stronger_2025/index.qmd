@@ -1,5 +1,5 @@
 ---
-title: "Igor Guardiancich, Mattia Guidi, Enrico Borghetto, & Lucia Quaglia (*in press*). **Stronger conditionality for stronger compliance? Analysing the NGEU’s effect on the implementation of European semester recommendations**. *Journal of European Public Policy*"
+title: "Igor Guardiancich, Mattia Guidi, Enrico Borghetto, & Lucia Quaglia (*in press*). Stronger conditionality for stronger compliance? Analysing the NGEU’s effect on the implementation of European semester recommendations. *Journal of European Public Policy*"
 authors: ["Igor Guardiancich", "Mattia Guidi", "Enrico Borghetto", "Lucia Quaglia"]
 date: "2025-12-31"
 categories: ["European Union", "EU compliance", "NGEU", "European semester"]

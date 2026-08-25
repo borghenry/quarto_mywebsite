@@ -1,8 +1,24 @@
 ---
-title: "Enrico Borghetto & Laura Chaques-Bonafont (2019). **Parliamentary Questions**. In Frank R. Baumgartner, Christian Breunig, Emiliano Grossman (eds.), *Comparative Policy Agendas: Theory, Tools, Data* pp. 282--299 Oxford University Press."
-authors: ["Enrico Borghetto", "Laura Chaques-Bonafont"]
-date: "2019"
-categories: ["agenda-setting", "legislatures", "parliamentary questions", "public policy", "comparative politics"]
-abstract: |
+title: |-
+  Enrico Borghetto and Laura Chaques-Bonafont. 2019. “Parliamentary Questions.” In *Comparative Policy Agendas: Theory, Tools, Data*, edited by Frank R. Baumgartner, Christian Breunig, and Emiliano Grossman, pp. 282--299. Oxford, New York: Oxford University Press.
+authors:
+  - 'Enrico Borghetto'
+  - 'Laura Chaques-Bonafont'
+date: '2019-12-31'
+categories:
+  - 'Parliaments'
+  - 'Agenda-Setting'
+  - 'Public Policy'
+  - 'Comparative Politics'
+citation-key: 'baumgartner_parliamentary_2019'
+description: |-
+  Enrico Borghetto and Laura Chaques-Bonafont. 2019. “Parliamentary Questions.” In *Comparative Policy Agendas: Theory, Tools, Data*, edited by Frank R. Baumgartner, Christian Breunig, and Emiliano Grossman, pp. 282--299. Oxford, New York: Oxford University Press.
+abstract: |-
   This book summarizes recent advances in the work on agenda-setting in a comparative perspective. The book first presents and explains the data-gathering effort undertaken within the Comparative Agendas Project over the past ten years. Individual country chapters then present the research undertaken within the many national projects. The third section illustrates the possibilities and directions for new research in comparative public policy using the data presented in this book. All the data used and discussed in the book is moreover publicly available. The book represents a significant contribution to the study of comparative public policy. By introducing a unified research infrastructure it opens up new possibilities for both empirical and theoretical research in this area.
+url: 'https://doi.org/10.1093/oso/9780198835332.003.0029'
 ---
+
+## Citation
+
+Enrico Borghetto and Laura Chaques-Bonafont. 2019. “Parliamentary Questions.” In *Comparative Policy Agendas: Theory, Tools, Data*, edited by Frank R. Baumgartner, Christian Breunig, and Emiliano Grossman, pp. 282--299. Oxford, New York: Oxford University Press.
+

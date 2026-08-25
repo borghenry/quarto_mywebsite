@@ -9,6 +9,19 @@
   color: #2f6245 !important;
 }
 
-.quarto-listing .listing-item .listing-title {
-  font-weight: 600;
+/* Keep topic labels directly below each publication citation. */
+.quarto-listing .listing-item .listing-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.45rem;
+}
+
+.quarto-listing .listing-item .listing-category {
+  border: 1px solid #c7d7e5;
+  border-radius: 999px;
+  color: #16518c;
+  font-size: 0.78rem;
+  line-height: 1.2;
+  padding: 0.18rem 0.5rem;
 }

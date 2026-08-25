@@ -26,18 +26,48 @@
   </macro>
 
   <macro name="title">
-    <text variable="title" font-style="italic"/>
+    <choose>
+      <if type="chapter">
+        <text variable="title"/>
+      </if>
+      <else>
+        <text variable="title" font-style="italic"/>
+      </else>
+    </choose>
   </macro>
 
   <macro name="container">
-    <group delimiter=", ">
-      <text variable="container-title"/>
-      <group delimiter=" ">
-        <text variable="volume"/>
-        <text variable="issue" prefix="(" suffix=")"/>
-      </group>
-      <text variable="page"/>
-    </group>
+    <choose>
+      <if type="chapter">
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text value="In"/>
+            <text variable="container-title" font-style="italic"/>
+          </group>
+          <group delimiter=" ">
+            <text value="edited by"/>
+            <names variable="editor">
+              <name and="text" delimiter=", " initialize-with=". "/>
+            </names>
+          </group>
+          <text variable="page" prefix="pp. "/>
+          <group delimiter=": ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+        </group>
+      </if>
+      <else>
+        <group delimiter=", ">
+          <text variable="container-title"/>
+          <group delimiter=" ">
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
   </macro>
 
   <macro name="doi-url">

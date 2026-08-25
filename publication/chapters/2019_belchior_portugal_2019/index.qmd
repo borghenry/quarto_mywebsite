@@ -1,5 +1,5 @@
 ---
-title: "Belchior, Ana Maria, and Enrico Borghetto. 2019. **“The Portuguese Policy Agendas Project.”** In *Comparative Policy Agendas: Theory, Tools, Data*, eds. Frank R. Baumgartner, Christian Breunig, and Emiliano Grossman. Oxford: Oxford University Press, 145–51"
+title: "Belchior, Ana Maria, and Enrico Borghetto. 2019. “The Portuguese Policy Agendas Project.” In *Comparative Policy Agendas: Theory, Tools, Data*, eds. Frank R. Baumgartner, Christian Breunig, and Emiliano Grossman. Oxford: Oxford University Press, 145–51"
 authors: ["Ana Maria Belchior", "Enrico Borghetto"]
 date: "2019"
 categories: ["Portugal", "agenda-setting", "party politics", "comparative politics", "lawmaking"]

@@ -1,6 +1,19 @@
 ---
-title: "Enrico Borghetto & Marcello Carammia (2015). **Party Priorities, Government Formation, and the Making of the Executive Agenda**. In Nicolò Conti, Francesco Marangoni (eds.), *The Challenge of Coalition Government: The Italian case* pp. 36--57 Routledge."
-authors: ["Enrico Borghetto", "Marcello Carammia"]
-date: "2015"
-categories: ["agenda-setting", "Italy", "governments", "party politics"]
+title: |-
+  Enrico Borghetto and Marcello Carammia. 2015. “Party Priorities, Government Formation, and the Making of the Executive Agenda.” In *The Challenge of Coalition Government: The Italian case*, edited by Nicolò Conti and Francesco Marangoni, pp. 36--57. Abingdon: Routledge.
+authors:
+  - 'Enrico Borghetto'
+  - 'Marcello Carammia'
+date: '2015-12-31'
+categories:
+  - 'Italy'
+  - 'Government and Coalitions'
+citation-key: 'borghetto_party_2015'
+description: |-
+  Enrico Borghetto and Marcello Carammia. 2015. “Party Priorities, Government Formation, and the Making of the Executive Agenda.” In *The Challenge of Coalition Government: The Italian case*, edited by Nicolò Conti and Francesco Marangoni, pp. 36--57. Abingdon: Routledge.
 ---
+
+## Citation
+
+Enrico Borghetto and Marcello Carammia. 2015. “Party Priorities, Government Formation, and the Making of the Executive Agenda.” In *The Challenge of Coalition Government: The Italian case*, edited by Nicolò Conti and Francesco Marangoni, pp. 36--57. Abingdon: Routledge.
+

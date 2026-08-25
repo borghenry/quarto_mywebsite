@@ -1,9 +1,27 @@
 ---
-title: "Luca Cabras, Enrico Borghetto, Lucia Quaglia, & Igor Guardiancich (*in press*). **From criticism to pragmatism? The impact of NGEU funding on party-based Euroscepticism in Italy**. *Italian Political Science Review*"
-authors: ["Luca Cabras", "Enrico Borghetto", "Lucia Quaglia", "Igor Guardiancich"]
-date: "2026-01-01"
-categories: ["discourse analysis", "Euroscepticism", "national recovery and resilience plan", "next-generation EU", "parliament", "political parties"]
-abstract: |
-  How do Euroskeptic parties adjust their rhetoric when the European Union expands its fiscal and redistributive role? We address this question by examining the impact of the next-generation EU (NGEU) program on parliamentary debates in Italy, the largest beneficiary of EU recovery funds. Drawing on an original dataset of over 700 hand-coded parliamentary statements covering 30 debates in the Italian Chamber of Deputies (2018–2024), we show that the launch of NGEU coincided with a measurable increase in supportive rhetoric toward the EU, especially among parties with Euroskeptic profiles, a shift that is not solely attributable to changes in government status. Our findings suggest that EU-level redistributive policies can contribute to altering, at least temporarily, domestic party discourse in parliament, pointing to the domestic political relevance of fiscal integration.
-doi: "10.1017/ipo.2025.10077"
+title: |-
+  Luca Cabras, Enrico Borghetto, Lucia Quaglia, and Igor Guardiancich. 2026. “From criticism to pragmatism? The impact of NGEU funding on party-based Euroscepticism in Italy.” *Italian Political Science Review / Rivista Italiana di Scienza Politica* 56(2): 79--93.
+authors:
+  - 'Luca Cabras'
+  - 'Enrico Borghetto'
+  - 'Lucia Quaglia'
+  - 'Igor Guardiancich'
+date: '2026-12-31'
+categories:
+  - 'European Union'
+  - 'Italy'
+  - 'Parliaments'
+  - 'Government and Coalitions'
+citation-key: 'cabras_criticism_2026'
+description: |-
+  Luca Cabras, Enrico Borghetto, Lucia Quaglia, and Igor Guardiancich. 2026. “From criticism to pragmatism? The impact of NGEU funding on party-based Euroscepticism in Italy.” *Italian Political Science Review / Rivista Italiana di Scienza Politica* 56(2): 79--93. [https://doi.org/10.1017/ipo.2025.10077](https://doi.org/10.1017/ipo.2025.10077)
+abstract: |-
+  How do Euroskeptic parties adjust their rhetoric when the European Union expands its fiscal and redistributive role? We address this question by examining the impact of the next-generation EU (NGEU) program on parliamentary debates in Italy, the largest beneficiary of EU recovery funds. Drawing on an original dataset of over 700 hand-coded parliamentary statements covering 30 debates in the Italian Chamber of Deputies (2018–2024), we show that the launch of NGEU coincided with a measurable increase in supportive rhetoric toward the EU, especially among parties with Euroskeptic profiles, a shift that is not solely attributable to changes in government status. Our findings suggest that EU-level redistributive policies can contribute to altering, at least temporarily, domestic party discourse in parliament, pointing to the domestic political relevance of fiscal integration
+doi: '10.1017/ipo.2025.10077'
+url: 'https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/from-criticism-to-pragmatism-the-impact-of-ngeu-funding-on-partybased-euroscepticism-in-italy/9D9AE50CD55BBF7CAC00E56462A9586C'
 ---
+
+## Citation
+
+Luca Cabras, Enrico Borghetto, Lucia Quaglia, and Igor Guardiancich. 2026. “From criticism to pragmatism? The impact of NGEU funding on party-based Euroscepticism in Italy.” *Italian Political Science Review / Rivista Italiana di Scienza Politica* 56(2): 79--93. [https://doi.org/10.1017/ipo.2025.10077](https://doi.org/10.1017/ipo.2025.10077)
+

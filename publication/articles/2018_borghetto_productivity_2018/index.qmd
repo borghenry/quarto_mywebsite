@@ -1,9 +1,24 @@
 ---
-title: "Enrico Borghetto & Marco Lisi (2018). **Productivity and Reselection in a Party-based Environment: Evidence from the Portuguese Case**. *Parliamentary Affairs*, 71(4), 868--887."
-authors: ["Enrico Borghetto", "Marco Lisi"]
-date: "2018"
-categories: ["party politics", "representation", "parliamentary questions", "Portugal"]
-abstract: |
-  Abstract. Portugal is a crucial case when studying candidate reselection in a party-dominated setting. While we expect the productivity of Members of Parliamen
-doi: "10.1093/pa/gsx051"
+title: |-
+  Enrico Borghetto and Marco Lisi. 2018. “Productivity and Reselection in a Party-based Environment: Evidence from the Portuguese Case.” *Parliamentary Affairs* 71(4): 868--887.
+authors:
+  - 'Enrico Borghetto'
+  - 'Marco Lisi'
+date: '2018-12-31'
+categories:
+  - 'Portugal'
+  - 'Parliaments'
+  - 'Political Representation'
+citation-key: 'borghetto_productivity_2018'
+description: |-
+  Enrico Borghetto and Marco Lisi. 2018. “Productivity and Reselection in a Party-based Environment: Evidence from the Portuguese Case.” *Parliamentary Affairs* 71(4): 868--887. [https://doi.org/10.1093/pa/gsx051](https://doi.org/10.1093/pa/gsx051)
+abstract: |-
+  Portugal is a crucial case when studying candidate reselection in a party-dominated setting. While we expect the productivity of Members of Parliament (MP) to be strongly associated with reselection, it should not affect the position of reselected representatives on the party list. These expectations are tested using data on MPs' parliamentary activities across eight years (from 2007 to 2015), while controlling for alternative hypotheses. Although the two main hypotheses are confirmed, we found that both electoral vulnerability and district magnitude condition the effect of MPs’ productivity on reselection. Overall, the results are in line with the literature on reselection and suggest that other factors, such as party loyalty, may be germane to the understanding of the reselection process in Portugal.
+doi: '10.1093/pa/gsx051'
+url: 'https://academic.oup.com/pa/article/71/4/868/4831466'
 ---
+
+## Citation
+
+Enrico Borghetto and Marco Lisi. 2018. “Productivity and Reselection in a Party-based Environment: Evidence from the Portuguese Case.” *Parliamentary Affairs* 71(4): 868--887. [https://doi.org/10.1093/pa/gsx051](https://doi.org/10.1093/pa/gsx051)
+

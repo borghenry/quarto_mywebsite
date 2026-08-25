@@ -1,7 +1,20 @@
 ---
-title: "Enrico Borghetto & Francesco Visconti (2015). **Governing by revising. A study on post-enactment policy change in Italy**. In Nicolò Conti, Francesco Marangoni (eds.), *The Challenge of Coalition Government: The Italian case* pp. 106--127 Routledge."
-authors: ["Enrico Borghetto", "Francesco Visconti"]
-date: "2015"
-categories: ["Italy", "legislatures", "lawmaking"]
-doi: "10.4324/9781315746937"
+title: |-
+  Enrico Borghetto and Francesco Visconti. 2015. “Governing by revising. A study on post-enactment policy change in Italy.” In *The Challenge of Coalition Government: The Italian case*, edited by Nicolò Conti and Francesco Marangoni, pp. 106--127. Abingdon: Routledge.
+authors:
+  - 'Enrico Borghetto'
+  - 'Francesco Visconti'
+date: '2015-12-31'
+categories:
+  - 'Italy'
+  - 'Government and Coalitions'
+citation-key: 'borghetto_governing_2015'
+description: |-
+  Enrico Borghetto and Francesco Visconti. 2015. “Governing by revising. A study on post-enactment policy change in Italy.” In *The Challenge of Coalition Government: The Italian case*, edited by Nicolò Conti and Francesco Marangoni, pp. 106--127. Abingdon: Routledge. [https://doi.org/10.4324/9781315746937](https://doi.org/10.4324/9781315746937)
+doi: '10.4324/9781315746937'
 ---
+
+## Citation
+
+Enrico Borghetto and Francesco Visconti. 2015. “Governing by revising. A study on post-enactment policy change in Italy.” In *The Challenge of Coalition Government: The Italian case*, edited by Nicolò Conti and Francesco Marangoni, pp. 106--127. Abingdon: Routledge. [https://doi.org/10.4324/9781315746937](https://doi.org/10.4324/9781315746937)
+

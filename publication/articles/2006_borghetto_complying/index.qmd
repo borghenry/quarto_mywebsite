@@ -1,7 +1,25 @@
 ---
-title: "Enrico Borghetto, Fabio Franchino, & Daniela Giannetti (2006). **Complying with the transposition deadlines of EU directives. Evidence from Italy**. *Rivista Italiana di Politiche Pubbliche*, 7--38."
-authors: ["Enrico Borghetto", "Fabio Franchino", "Daniela Giannetti"]
-date: "2006"
-categories: ["Italy", "European Union", "EU compliance"]
-doi: "10.1483/21752"
+title: |-
+  Enrico Borghetto, Fabio Franchino, and Daniela Giannetti. 2006. “Complying with the transposition deadlines of EU directives. Evidence from Italy.” *Rivista Italiana di Politiche Pubbliche*(1/2006): 7--38.
+authors:
+  - 'Enrico Borghetto'
+  - 'Fabio Franchino'
+  - 'Daniela Giannetti'
+date: '2006-12-31'
+categories:
+  - 'European Union'
+  - 'Italy'
+  - 'Parliaments'
+  - 'Government and Coalitions'
+citation-key: 'borghetto_complying_2006'
+description: |-
+  Enrico Borghetto, Fabio Franchino, and Daniela Giannetti. 2006. “Complying with the transposition deadlines of EU directives. Evidence from Italy.” *Rivista Italiana di Politiche Pubbliche*(1/2006): 7--38. [https://doi.org/10.1483/21752](https://doi.org/10.1483/21752)
+abstract: |-
+  This article assesses the causes of the timing of transposition of 2179 EU directives, using an original dataset of 3183 laws adopted by the Italian authorities. Amendments to Commission directives are transposed sooner. Additionally, EU laws with longer time for adaptation present a lower risk of delay beyond the deadline. More intense supranational monitoring speeds up transposition and lowers the risk of delay. Interestingly, as the volume of EU laws to be incorporated increases, transposition "accelerates" and, since 1984, delay is less likely to occur. As expected, administrative and legal reforms undertaken at the national level have lowered the risk of delay and increased the likelihood of transposition. Finally, those legal instruments that offer the opportunity to potential veto players to voice their concerns and delay transposition do not appear to corroborate entirely our predictions. As expected, legislative and local authority measures increase the risk of delay, while ministerial acts both lower this risk and expedite transposition. But, contrary to our predictions, legislative and cabinet acts accelerate transposition and cabinet measures increase rather than reduce the likelihood of delay.
+doi: '10.1483/21752'
 ---
+
+## Citation
+
+Enrico Borghetto, Fabio Franchino, and Daniela Giannetti. 2006. “Complying with the transposition deadlines of EU directives. Evidence from Italy.” *Rivista Italiana di Politiche Pubbliche*(1/2006): 7--38. [https://doi.org/10.1483/21752](https://doi.org/10.1483/21752)
+

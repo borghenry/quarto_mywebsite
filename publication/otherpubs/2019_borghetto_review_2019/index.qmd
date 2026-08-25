@@ -1,7 +1,18 @@
 ---
-title: "Enrico Borghetto (2019). **Review \"Ensaios de Política Comparada de Giovanni Sartori\"**. *Analise Social*, 233(4), 899--902."
-authors: ["Enrico Borghetto"]
-date: "2019"
-categories: ["review", "comparative politics"]
-doi: "https://doi.org/10.31447/as00032573.2019233.13"
+title: |-
+  Enrico Borghetto. 2019. “Review "Ensaios de Política Comparada de Giovanni Sartori.” *Analise Social* 233(4): 899--902.
+authors:
+  - 'Enrico Borghetto'
+date: '2019-12-31'
+categories:
+  - 'Political Science'
+citation-key: 'borghetto_review_2019'
+description: |-
+  Enrico Borghetto. 2019. “Review "Ensaios de Política Comparada de Giovanni Sartori.” *Analise Social* 233(4): 899--902. [https://doi.org/31447/as00032573.2019233.13](https://doi.org/31447/as00032573.2019233.13)
+doi: '31447/as00032573.2019233.13'
 ---
+
+## Citation
+
+Enrico Borghetto. 2019. “Review "Ensaios de Política Comparada de Giovanni Sartori.” *Analise Social* 233(4): 899--902. [https://doi.org/31447/as00032573.2019233.13](https://doi.org/31447/as00032573.2019233.13)
+

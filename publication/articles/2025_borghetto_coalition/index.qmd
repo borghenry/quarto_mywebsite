@@ -1,5 +1,5 @@
 ---
-title: "Enrico Borghetto, Marco Improta, and Francesco Marangoni. 2025. **“Coalition Politics under Exceptional Exogenous Constraints: The Meloni Government during the EU-Financed Economic Recovery Plan.”** *South European Society and Politics* 30(1): 85–105"
+title: "Enrico Borghetto, Marco Improta, and Francesco Marangoni. 2025. “Coalition Politics under Exceptional Exogenous Constraints: The Meloni Government during the EU-Financed Economic Recovery Plan.” *South European Society and Politics* 30(1): 85–105"
 authors: ["Enrico Borghetto", "Marco Improta", "Francesco Marangoni"]
 date: "2025-12-31"
 categories: ["Italy", "European Union", "NGEU", "agenda-setting", "coalition politics"]
