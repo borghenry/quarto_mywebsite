@@ -29,6 +29,8 @@ format:
 ---
 
 ::: callout-note
+## Contact
+
 - ORCID: <https://orcid.org/0000-0001-8676-3583>
 - Work address: Dipartimento di Scienze Politiche e Sociali, Università degli Studi di Firenze, Via delle Pandette 21 (Building D5), second floor, Florence, FI 50127
 :::
